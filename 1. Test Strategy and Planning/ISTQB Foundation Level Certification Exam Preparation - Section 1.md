@@ -2,6 +2,21 @@
 
 ## **Introduction**
 
+**What you will learn in this first section**
+
+- Why Testing?
+- Causes of software defects
+- Tester objectives
+- Testing and debugging
+- Principles of testing
+- Test activities
+- Retesting
+- Resource triangle
+- Completion criteria
+- Static and dynamic testing
+- Testing independencies
+- Code of ethics
+
 ### **What is ISTQB**
 
 - ISTQB, International Software Testing Qualification Board
