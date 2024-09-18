@@ -183,3 +183,60 @@ Many of these tools provide a graphical representation of the code and this can 
 - Success factors for reviewers
 - Static Analysis and its benefits
 - Use of static analysis tools
+
+### **Section 3 Quiz**
+
+1) Typical defects that are easier to find in reviews than in dynamic testing are:
+    A - Deviations from standards
+    B - Requirements and design defects
+    C - Insufficient maintainability and incorrect interface specifications
+    D - All of the above
+        
+        D - All of the above
+
+2) Q2. What common objective is shared by static testing and dynamic testing?
+    - Identifying defects
+
+3)  In a walkthrough, the scribe should not also be the
+    - Author
+
+4) The following characteristics define a technical review:
+    i - Have a documented, defined fault-detection process
+    iii - Include peers and technical experts
+    iv - May have no management participation
+    v - May correct issues as they arise
+
+5)  A developer who desk-checks his or her own code by visually stepping through is execution is performing:
+    - An informal review
+
+6) A moderator who is not also the author is mandatory in
+    - An inspection
+
+7) What type of review requires formal entry and exit criteria, and keeps metrics?
+    - Inspection
+
+8) Reviews are worthwhile because:
+    - They reduce costs by removing defects before test execution
+
+9)  One of the defining characteristics of walkthroughs is that they are led by:
+    - The author
+
+10) In a formal review, reviewers are each assigned a focus so that:
+    i. We exploit individuals' expertise
+    iv. Responsibilities are defined clearly
+    v. Each has a smaller task
+
+11)  Static analysis can detect which of the following more easily than dynamic testing?
+    - Parameter type mismatches
+
+12)  Which of the following statements about compilers is true in testing?
+    - May provide some similar functionality to a static analyser
+
+13) Which of the following is true of static analysis?
+    - Finds defects rather than failures
+
+14) What can static analysis NOT find?
+    - Whether the value stored in a variable is correct
+
+15) Static analysis tools are:
+    - Able to provide quality information about source code
