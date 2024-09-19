@@ -217,4 +217,4 @@ Uses a table to list out all possible inputs and actions that can arise to ensur
 
 #### **Decision Table Example**
 
-![Decision Table Example](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/assets/decision-table-example.jpg)
+![Decision Table Example](assets/decision-table-example.jpg)
