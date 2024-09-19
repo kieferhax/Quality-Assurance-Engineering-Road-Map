@@ -17,7 +17,7 @@
 - Testing independencies
 - Code of ethics
 
-### **What is ISTQB**
+## **What is ISTQB**
 
 - ISTQB, International Software Testing Qualification Board
 - Founded in 2002
@@ -25,7 +25,7 @@
 - The goal of ISTQB is to continually **improve** and advance the software testing **profession**
 - **Certification** knowledge is based on **best practices**, the community of software testers and **continuously** researching in the subject matter.
 
-### **What Will You Learn**
+## **What Will You Learn**
 
 **Foundation level professionals should be able to:**
 
@@ -39,11 +39,11 @@
 - Be **familair** with different **types** of testing **tools** and their uses
 - **Assist** in the **selection** and **implementation** process
 
-### **Course Structure**
+## **Course Structure**
 
 The course is divided into **6 sections** following the **ISTQB syllabus structure**, which consists of **6 chapters**.
 
-### **Course Objectives**
+## **Course Objectives**
 
 1. **Remeber** - Recognize, remeber, and recall a term or concept
 2. **Understand** - Can select the reasons or explanations for statments related to the topic and summarize, diffentiate, classify, and give examples.
@@ -52,9 +52,7 @@ The course is divided into **6 sections** following the **ISTQB syllabus structu
 
 ## **Fundamentals of Testing - Section 1**
 
-### **Section 1 Intro**
-
-Summary
+## **Section 1 Intro**
 
 **What you will learn in this first section**
 
@@ -71,7 +69,7 @@ Summary
 - Testing independencies
 - Code of ethics
 
-### **Why Testing is Necessary**
+## **Why Testing is Necessary**
 
 **People make mistakes due to fallibility but also other pressures including:**
 
@@ -88,7 +86,7 @@ Failure results in financial loss, waste of time, loss of reputation or, in wors
 
 Testing reduces the risk of software failure.
 
-### **Causes of Software Defects**
+## **Causes of Software Defects**
 
 **Error:** Humans make **mistakes** in code.
 
@@ -98,29 +96,34 @@ Testing reduces the risk of software failure.
 
 **Failure:** Failures don't only happen due to **defects**, but also environmental conditions, hardware failures, etc.
 
-*All defects start with a human error (for example a typo, midunderstanding, lack planning, capability, etc.). The tester's job is to expose the defect by causing a failure before the software gets to production*
+*All defects start with a human error (for example a typo, midunderstanding, lack planning, capability, etc.).*
 
-### **Objectives of Testing Software**
+*The tester's job is to expose the defect by causing a failure before the software gets to production*
+
+## **Objectives of Testing Software**
 
 - Avoid and rectify errors.
 - Ensure that key functional and non-functional requirements are examined.
 - Testing is not about removing defects, but about notifying developers about them.
 - Testing is also about reducing risk in releasing
 
-*Testing can give confidence in the quality of the software if it finds few or no defects. Tests can and must be measured. Typical measurements are:*
-- *Number of defects found*
-- *Number of failures in a given time period (reliability)*
-- *Usability testing*
-- *Mantainability*
+*Testing can give confidence in the quality of the software if it finds few or no defects.*
 
-### **Difference Between Testing and Debugging**
+*Tests can and must be measured. Typical measurements are:*
 
-**Debugging** is a process used to identify casues of bugs in code and **correct them**.
-**Testing** is the exploration of the system in order to **find defects**
+- Number of defects found
+- Number of failures in a given time period (reliability)
+- Usability testing
+- Mantainability
+
+## **Difference Between Testing and Debugging**
+
+- **Debugging** is a process used to identify casues of bugs in code and **correct them**.
+- **Testing** is the exploration of the system in order to **find defects**
 
 ![Testing vs Debugging](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/testing-vs-debugging.jpg)
 
-### **Fundamental Principles of Testing**
+## **Fundamental Principles of Testing**
 
 1. Testing shows the presence of bugs
 2. Exhaustive testing (testing all possible data combinations) is impossible
@@ -130,7 +133,7 @@ Testing reduces the risk of software failure.
 6. Testing is context dependent. Testing is done differently in different context.
 7. Software with no known errors is not necessarily ready to be shipped. Does it match user/business expectactions?
 
-### **Five Fundamental Test Activities And Tasks From Planning To Test Closure**
+## **Five Fundamental Test Activities And Tasks From Planning To Test Closure**
 
 1) Planning and Control:
 **Planning** - Verify the mission of testing
@@ -150,7 +153,7 @@ Occurs at project **milestones** such as **release**, **completion, cancellation
 
 ![Five Fundamental Test Activities](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/test-activities.jpg)
 
-### **Restesting and Regression Testing**
+## **Restesting and Regression Testing**
 
 - Retest - running the tests again after they fail and the bugs have been in theory fixed
 
@@ -158,7 +161,7 @@ Occurs at project **milestones** such as **release**, **completion, cancellation
 
 ![Retest and Regression](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/retesting-and-regression.jpg)
 
-### **Resource Triangle**
+## **Resource Triangle**
 
 Time, Cost, and Quality.
 
@@ -182,7 +185,7 @@ In other words, you ahve three options:
 
 ![Resource Triangle](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/scope-triangle.png)
 
-### **Completion Criteria**
+## **Completion Criteria**
 
 Criteria you set at the beginning of a project that determines when it is safe to stop testing.
 
@@ -196,13 +199,13 @@ Exit criterion is conencted to the test coverage, test case design technique ado
 - Any changes to the test completion criterion must be documented and signed off by stakeholders.
 - The test ware can be released upon successful completion of exit criteria.
 
-### **Static and Dynamic Testing** 
+## **Static and Dynamic Testing** 
 
 **Static** - Testing where code is not executed: document specification analysis, reviews, even code itself, etc. Can be done as **review** by humans carrying out **manual** examination of documents or **Static Analysis** of the code and software models by using **automation** tools
 
 **Dynamic** - Kind of testing that executes the program code with some **test data**. Dynamic testing is performed by executing **software under test** and comparing actual and expected results.
 
-### **Testing Independnce**
+## **Testing Independnce**
 
 Developers are least independent, wheras outsourced testing companies are most independent, because they don't take defects as criticism.
 
@@ -213,7 +216,7 @@ Several levels of independence can be defined as shown below:
 - Tests designed by a person(s) from a *different organizational group* or *test specialists*
 - Tests designed by a person(s) from a *different organization or company*
 
-### **Code of Ethics**
+## **Code of Ethics**
 
 Involvement in software testing enables individuals to learn confidential and privileged information. A code of ethics is necessary, the ISTQB states the following code of ethics:
 
@@ -226,7 +229,7 @@ Involvement in software testing enables individuals to learn confidential and pr
 - Colleagues: testers shall be fair to and supportive of their colleagues, and promote cooperation with software developers.
 - Self: testers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession.
 
-### **Summary**
+# **Summary**
 
 This is what you have learned so far:
 
@@ -243,7 +246,7 @@ This is what you have learned so far:
 - Why it is important to get testing independence
 - Why the code of ethics is necessary
 
-### **Section 1 Quiz**
+# **Section 1 Quiz**
 
 1) A human action that produces an incorrect result is called:
     - An error
