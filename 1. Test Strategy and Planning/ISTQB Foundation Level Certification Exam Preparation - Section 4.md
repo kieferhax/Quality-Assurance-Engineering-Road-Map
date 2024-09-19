@@ -111,7 +111,8 @@ Test cases may be grouped together in a single test procedure but it is often si
 
 **Here is an example of test procedure steps**
 
-| Step | Action | Expected Result | Actual Result
+| Step | Action | Expected Result | Actual Result |
+| :--- | :----- | :-------------- | :------------ | 
 | 1 | Login with user id 'Abc123' password 'Password01!' | Main menu displayed |
 | 2 | Double click 'Place Order' | New order screen displayed | 
 | 3 | Type in customer # 'AB001' | Customer AB0001 details displayed |
@@ -184,10 +185,11 @@ Equivalence partitioning is applicable at all levels of testing and can be used 
 - To gain distinction a student must score at least 80
 - Any score lessn than 0 or greater than 100 is invalid
 
-1) At a minimum, we should test one fail, one pass, one merit, and one distinction, rathe than every possible score. Drawing a simple line chart can help identify the partitions.
+| Invalid | Fail | Pass | Merit | Distinction | Invalid |
+| :-----: | :--: | :--: | :---: | :---------: | :-----: |
+|  -1     |  20  |  40  |  60   |     80      |   101   |
 
--5      20    50    70    90    105
-<-----|-----|-----|-----|-----|----->
+1) At a minimum, we should test one fail, one pass, one merit, and one distinction, rathe than every possible score. Drawing a simple line chart can help identify the partitions.
 
 2) There are 4 valid partitions and 2 invalid partitions, giving a total of 6 tests to cover the whole specification.
 
@@ -203,9 +205,9 @@ Boundary value analysis can be applied at all test levels. It is relatively easy
 
 This techniques, also known as Boundary Analysis, is often considered as an extension of equivalence partiotioning or other black-box test design techniques.
 
-      -1 0        39 40     59 60     79 80    100 101   
-<---------|---------|---------|---------|---------|--------->
-Invalid    Fail      Pass      Merit    Distinction   Invalid
+| Invalid | Fail   | Pass    | Merit   | Distinction | Invalid |
+| :-----: | :----: | :-----: | :-----: | :---------: | :-----: |
+|   < 0   | 0 - 39 | 40 - 59 | 60 - 79 | 80 - 100    | > 100   |
 
 In this example, there are 5 boundaries, giving a total of 10 tests to cover the whole specification. The diagram also helps to clarify the minimum increment between values, i.e., are we testing 39 or 39.9, or 39.99?
 
@@ -215,4 +217,4 @@ Uses a table to list out all possible inputs and actions that can arise to ensur
 
 #### **Decision Table Example**
 
-![Decision Table Example]()
+![Decision Table Example](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/assets/decision-table-example.jpg)
