@@ -148,6 +148,8 @@ Activity where **test execution** is assessed against the defined **objectives**
 5) Test Closure Activities
 Occurs at project **milestones** such as **release**, **completion, cancellation,** or **maintainence** release has been complete.
 
+![Five Fundamental Test Activities](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/test-activities.jpg)
+
 ### **Restesting and Regression Testing**
 
 Retest - running the tests again after they fail and the bugs have been in theory fixed
