@@ -132,9 +132,6 @@ Testing reduces the risk of software failure.
 
 ### **Five Fundamental Test Activities And Tasks From Planning To Test Closure**
 
-
-
-
 1) Planning and Control:
 **Planning** - Verify the mission of testing
 **Control** - Monitor, check progress, and take action
