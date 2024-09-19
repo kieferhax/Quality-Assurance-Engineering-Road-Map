@@ -180,6 +180,8 @@ In other words, you ahve three options:
 2. Design something quickly and cheaply, but it will not be of high quality.
 3. Design something with high quality and cheaply, but it will take a relatively longer time.
 
+![Resource Triangle](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/scope-triangle.png)
+
 ### **Completion Criteria**
 
 Criteria you set at the beginning of a project that determines when it is safe to stop testing.
