@@ -216,5 +216,3 @@ In this example, there are 5 boundaries, giving a total of 10 tests to cover the
 Uses a table to list out all possible inputs and actions that can arise to ensure each are tested. Decision tables represent the behaviour of a system that depends on the outcome of multiple decisions.
 
 #### **Decision Table Example**
-
-![Decision Table Example](assets/decision-table-example.jpg)
