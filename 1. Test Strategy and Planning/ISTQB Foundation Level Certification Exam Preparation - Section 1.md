@@ -152,8 +152,11 @@ Occurs at project **milestones** such as **release**, **completion, cancellation
 
 ### **Restesting and Regression Testing**
 
-Retest - running the tests again after they fail and the bugs have been in theory fixed
-Regression - running testing to check the cross impact of defect fixes in the whole functionality or system
+- Retest - running the tests again after they fail and the bugs have been in theory fixed
+
+- Regression - running testing to check the cross impact of defect fixes in the whole functionality or system
+
+![Retest and Regression](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/retesting-and-regression.jpg)
 
 ### **Resource Triangle**
 
