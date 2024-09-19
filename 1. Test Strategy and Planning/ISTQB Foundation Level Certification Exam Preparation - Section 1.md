@@ -118,6 +118,8 @@ Testing reduces the risk of software failure.
 **Debugging** is a process used to identify casues of bugs in code and **correct them**.
 **Testing** is the exploration of the system in order to **find defects**
 
+![Testing vs Debugging](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/testing-vs-debugging.jpg)
+
 ### **Fundamental Principles of Testing**
 
 1. Testing shows the presence of bugs
