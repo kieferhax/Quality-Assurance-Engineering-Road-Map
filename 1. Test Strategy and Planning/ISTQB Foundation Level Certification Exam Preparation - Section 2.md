@@ -107,7 +107,7 @@ Mini cycles show the purpose of each test level, and show the importance of catc
 
 The V-model also shows how static testing can be carried out during the development stages, before the code is written. Documents are identified which can be reviewed to trap faults as early as possible.
 
-![Another V-model diagram]()
+![Another V-model diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/v-model-2.jpg)
 
 ## **Iterative-Incremental (Agile) Models**
 
