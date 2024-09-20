@@ -141,6 +141,8 @@ It should **not** test teh functionality within the component (by this time it h
 
 V-model document: **Design Specification** and **Component Integration** testing.
 
+![Integration Testing]()
+
 ## **System Testing**
 
 Tests the various parts of the application to ensure they are working together within a system of work.  This tests the behavior of an end-to-end integrated ssytem as defined by the scope of a development project. It is usually conducted by independent testers.
