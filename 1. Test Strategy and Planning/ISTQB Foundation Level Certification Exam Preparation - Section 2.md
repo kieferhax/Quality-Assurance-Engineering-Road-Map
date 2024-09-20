@@ -141,7 +141,7 @@ It should **not** test teh functionality within the component (by this time it h
 
 V-model document: **Design Specification** and **Component Integration** testing.
 
-![Integration Testing]()
+![Integration Testing](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/integration-testing.jpg)
 
 ## **System Testing**
 
