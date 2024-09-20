@@ -233,3 +233,33 @@ Uses a table to list out all possible inputs and actions that can arise to ensur
 
 ![Decision Table Example](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/decision-table-example.jpg)
 
+The process for creating a decision table is as follows:
+
+1) Identify the condition stubs (descriptions) fom the test basis.
+2) Identify the actions stubs (descriptions) from the test basis.
+3) Establish the condition entries - all possible combination of conditions
+4) List the rules from the test basis and work out the action entries for each rule - the outcomes associated with each combination
+
+Each column corresponds to a test case, in which the condition entries are the test conditions, and the action entries are the expected results.
+
+If there are two conditions, then there are a maximum of 4 possibel combinations; and for 3 conditions, there can be up to 8 possible combinations.
+
+If n is the number of conditions, then: **Number of possible combinations = 2^n**
+
+## **Decision Table Example 1**
+
+**Requirement: Delivering goods from warehouse to shops**
+
+For each shop's delivery schedule we look to see how far away the shop is from the warehouse then we go through each item on the schedule.
+
+If the stop is **further than 10 miles** away we add the item to the next **weekly delivery** for that area, unless it's a rush order in which case we send it by **overnight carrier**.
+
+When we have an item to be delivered locally (i.e. less than or equal to 10 miles) we add it to the **next day's delivery** unless it's a rush order in which case Mr Delivery Man delivers it wish an **estate car** immediately.
+
+When faced with complex requirements, it is often easier to understand the logic using a diagrammatic techinque, in this case a decision table.  Like EP and BVA, it also helps to clarify the rules and establish any omissions or ambiguities.
+
+In this example each combination of conditions has a specified action and every combination is tested.  Often however, there will be combinations of conditions for which there is no specified action, or an exception (error) generated.  Then the tester will have to decide how many to test based on risk.
+
+The strength of decision table testing is that it creates combinations of conditions that might not other wise have been exercised during testing.
+
+![Decision Table Example 1]()
