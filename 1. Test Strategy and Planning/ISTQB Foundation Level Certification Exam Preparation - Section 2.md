@@ -228,6 +228,8 @@ Coverage measurement applies at all levels, as any aspect of a system which can 
 - Component hierarchy diagram: coverage of component interfaces.
 - Web pages structure: coverage of page navigation
 
+![White Box Testing Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/structural-testing.jpg)
+
 ## **Change-related Testing**
 
 Testing a system following modifications or corrections: includes re-testing and regression testing.  This is testing following a change or fix to the software or environment. This should involve two types of test:
