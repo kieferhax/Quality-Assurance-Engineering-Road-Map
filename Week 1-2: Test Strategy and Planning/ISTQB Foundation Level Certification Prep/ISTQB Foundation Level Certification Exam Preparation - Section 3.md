@@ -187,12 +187,10 @@ Many of these tools provide a graphical representation of the code and this can 
 ### **Section 3 Quiz**
 
 1) Typical defects that are easier to find in reviews than in dynamic testing are:
-    A - Deviations from standards
-    B - Requirements and design defects
-    C - Insufficient maintainability and incorrect interface specifications
-    D - All of the above
-        
-        D - All of the above
+    - Deviations from standards
+    - Requirements and design defects
+    - Insufficient maintainability and incorrect interface specifications
+
 
 2) Q2. What common objective is shared by static testing and dynamic testing?
     - Identifying defects
@@ -201,10 +199,10 @@ Many of these tools provide a graphical representation of the code and this can 
     - Author
 
 4) The following characteristics define a technical review:
-    i - Have a documented, defined fault-detection process
-    iii - Include peers and technical experts
-    iv - May have no management participation
-    v - May correct issues as they arise
+    - Have a documented, defined fault-detection process
+    - Include peers and technical experts
+    - May have no management participation
+    - May correct issues as they arise
 
 5)  A developer who desk-checks his or her own code by visually stepping through is execution is performing:
     - An informal review
@@ -222,9 +220,9 @@ Many of these tools provide a graphical representation of the code and this can 
     - The author
 
 10) In a formal review, reviewers are each assigned a focus so that:
-    i. We exploit individuals' expertise
-    iv. Responsibilities are defined clearly
-    v. Each has a smaller task
+    - We exploit individuals' expertise
+    - Responsibilities are defined clearly
+    - Each has a smaller task
 
 11)  Static analysis can detect which of the following more easily than dynamic testing?
     - Parameter type mismatches
