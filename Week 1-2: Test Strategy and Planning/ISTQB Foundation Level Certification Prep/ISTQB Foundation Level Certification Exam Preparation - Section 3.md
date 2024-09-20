@@ -52,7 +52,7 @@ The benefits of reviewing as early as possible are simple.  Easier and cheaper t
 - Reduced time and cost of dynamic testing
 - Improve communication between testers, analysts, developers, and users
 
-![Where Defects Are Most Likely to be Introduced]()
+![Where Defects Are Most Likely to be Introduced](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/reviews2.jpg)
 
 ## **Types of Defects Found in Reviews**
 
