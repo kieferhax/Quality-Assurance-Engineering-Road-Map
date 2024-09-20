@@ -57,7 +57,7 @@ This section I'll be describing the three specification documents. The other doc
 
 **Test Procedure Specification** > documents the sequence of **actions** for the execution of a test. If the test is to be executed manually, it is called a test procedure; if executed by automated tools it is called a test script.
 
-## **Test Phases
+## **Test Phases**
 
 ![Master Test Plan by Test Phase](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/test-phases.jpg)
 
