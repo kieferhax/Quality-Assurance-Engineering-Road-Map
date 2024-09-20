@@ -124,6 +124,8 @@ Here's a typical formal review process:
 
 Main pupose is to find defects and uses no real formal process.
 
+![Informal Review Diagram]()
+
 ## **Walkthrough**
 
 Very useful for highly visual products via storyboarding, workflow tools, etc.
