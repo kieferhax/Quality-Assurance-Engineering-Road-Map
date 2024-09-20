@@ -190,7 +190,7 @@ Tests can be designed to cover all valid and invalid partitions.
 
 Equivalence partitioning is applicable at all levels of testing and can be used to achieve input and output coverage goals. 
 
-![Equivalence Partitioning Chart]()
+![Equivalence Partitioning Chart](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/equivalence-partitioning.jpg)
 
 ## **Equivalence Partitioning Example**
 
