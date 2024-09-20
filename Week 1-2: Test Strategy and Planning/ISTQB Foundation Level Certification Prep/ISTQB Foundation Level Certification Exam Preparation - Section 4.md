@@ -57,6 +57,8 @@ This section I'll be describing the three specification documents. The other doc
 
 **Test Procedure Specification** > documents the sequence of **actions** for the execution of a test. If the test is to be executed manually, it is called a test procedure; if executed by automated tools it is called a test script.
 
+## **Test Phases
+
 ### **Test Condition**
 
 An item or event of a component or system that coule be verified by one or more test cases.
