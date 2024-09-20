@@ -171,6 +171,8 @@ The objective of static analysis is to find defects in software source code and 
 
 Static analysis does not test functionality but can locate structural defects that are hard to find in dynamic testing.
 
+![Looping Code Example](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/static-analysis.jpg)
+
 ## **Benefits of Static Analysis**
 
 - Early detection of issues prior to text execution.
