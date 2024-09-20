@@ -255,12 +255,8 @@ This is what you have learned so far:
     - A failure
 
 3) Which of the following statements are true?
-    1) A defect is produced as result of system failure
-    2) Failures can be caused by environmental conditions such as radiation
-    3) Defects, bugs and faults are the same thing
-    4) Failures can cause bugs
-    5) Faults always cause system failures
-        -  2, 3 are true; 1, 4 and 5 are false
+    - Failures can be caused by environmental conditions such as radiation
+    - Defects, bugs and faults are the same thing
 
 4) Which of the following statements is true?
     - Testing can show failures that are caused by defects
@@ -298,13 +294,9 @@ This is what you have learned so far:
     - Evaluating exit criteria and reporting
 
 13)  Which activities from part of test planning?
-    1) Developing test cases
-    2) Defining the overall approach to testing
-    3) Determining the required resources
-    4) Building the test environment
-    5) Writing test conditions
-    6) Implementing the test strategy
-        - 2, 3 and 6 are true; 1, 4 and 5 are false
+    - Defining the overall approach to testing
+    - Determining the required resources
+    - Implementing the test strategy
 
 14) Independence in testing means
     - Someone other than the developer designing the tests
