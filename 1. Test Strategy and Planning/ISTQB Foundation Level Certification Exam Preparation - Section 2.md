@@ -12,27 +12,27 @@
 - Change-related testing
 - Maintenance testing 
 
-### **Life Cycle Models**
+## **Life Cycle Models**
 
 **Sequential Life Cycle Models**
 
-In sequential models the entire system is built in a single sequence of activities that successively define, build, test, and implement the software.
+- In sequential models the entire system is built in a single sequence of activities that successively define, build, test, and implement the software.
 
-Examples are waterfall, Structured System Analysis and Design Model (SSADM), the V-model, and the W-model.
+- Examples are waterfall, Structured System Analysis and Design Model (SSADM), the V-model, and the W-model.
 
 **Iterative-Incremental (Agile) Life Cycle Models**
 
-In iterative-incremental development models, systems are built in a series of short development cycles which deliver working systems in a number of separate increments that can later be integrated together.
+- In iterative-incremental development models, systems are built in a series of short development cycles which deliver working systems in a number of separate increments that can later be integrated together.
 
-Agile development is a term for several methodologies including Scrum, Crystal Clear and many more.
+- Agile development is a term for several methodologies including Scrum, Crystal Clear and many more.
 
-Each has its specific approach but all share the common vision and core values as continuous planning, testing, integration, for the project and software. Is adaptable and focuses on empowering people to collaborate and make decisions together quickly and effectively.
+- Each has its specific approach but all share the common vision and core values as continuous planning, testing, integration, for the project and software. Is adaptable and focuses on empowering people to collaborate and make decisions together quickly and effectively.
 
-### **Life Cycle Model Categories**
+## **Life Cycle Model Categories**
 
-Testing does not exist in isolation.  Test activities are related to software development activities. Different development life cycle models, methodologies, need differetn approaches to testing.
+- Testing does not exist in isolation.  Test activities are related to software development activities. Different development life cycle models, methodologies, need differetn approaches to testing.
 
-There are many system development life cycle models, which fall into two main categories:
+- There are many system development life cycle models, which fall into two main categories:
 
 **Sequential**
 
@@ -47,31 +47,31 @@ There are many system development life cycle models, which fall into two main ca
 - Scrum
 - Cynamic Systems Development Method (DSDM) Atern
 
-### **Waterfall Model**
+## **Waterfall Model**
 
-Life cycle through which a project goes.  Squential or linear design process. Testing is carried out at the end.
+- Life cycle through which a project goes.  Squential or linear design process. Testing is carried out at the end.
 
-- Initiation
-- Analysis
-- Design
-- Build
-- Test
-- Deploy
+1) Initiation
+2) Analysis
+3) Design
+4) Build
+5) Test
+6) Deploy
 
-This is the traditional approach to systems development.  Each stage is quite separate, carried out by specialists, and each must complete before the next begins. Each stage outputs a deliverable which is input to the next step.
+- This is the traditional approach to systems development.  Each stage is quite separate, carried out by specialists, and each must complete before the next begins. Each stage outputs a deliverable which is input to the next step.
 
-All testing is done at the end, after the code is developed. Therefore this model does not allow for early testing, as recommended in the principles earlier.
+- All testing is done at the end, after the code is developed. Therefore this model does not allow for early testing, as recommended in the principles earlier.
 
-### **V-model**
+## **V-model**
 
-There's many variations of V-model, with slightly different numbers and descriptions of levels.  The ISTQB Foundation exam syllabus refers to a model with 4 test levels:
+- There's many variations of V-model, with slightly different numbers and descriptions of levels.  The ISTQB Foundation exam syllabus refers to a model with 4 test levels:
 
 1) Component Testing
 2) Integration Testing
 3) System Testing
 4) Acceptance Testing
 
-The goes on to describe two different integration test levels, so in this demonstration, I'll describe a V-model with 5 levels of testing instead:
+- The goes on to describe two different integration test levels, so in this demonstration, I'll describe a V-model with 5 levels of testing instead:
 
 1) Component Testing
 2) Component Integration Testing
@@ -105,7 +105,7 @@ Mini cycles show the purpose of each test level, and show the importance of catc
 
 The V-model also shows how static testing can be carried out during the development stages, before the code is written. Documents are identified which can be reviewed to trap faults as early as possible.
 
-### **Iterative-Incremental (Agile) Models**
+## **Iterative-Incremental (Agile) Models**
 
 A software design model where the stages are ongoing opposite to the watefall method. Testing occurs as part of each sprint.
 
@@ -117,13 +117,13 @@ Typically, development teams work closely together with fewer formal documents a
 
 This minimises overall risk and allows the project to adapt to changes quickly.
 
-### **Unity or Component Testing**
+## **Unity or Component Testing**
 
 Tests individual units or pieces of code for a system. the aim of component testing is to determine whether an individual functino works properly in isolation before integration with the system and combining it with other components.
 
 Component testing is different from all later test stages as it is **not** done by testers but by the developers of the code, the the developer's environment using IDE, debugging tools and test frameworks incorporating stubs and drivers.
 
-### **Integration Testing**
+## **Integration Testing**
 
 Performed to ensure that two modules operate together correctly.  The aim is to test all major interfaces and interactions between the individual components, and to uncover communication failures between components.
 
@@ -131,7 +131,7 @@ It should **not** test teh functionality within the component (by this time it h
 
 V-model document: **Design Specification** and **Component Integration** testing.
 
-### **System Testing**
+## **System Testing**
 
 Tests the various parts of the application to ensure they are working together within a system of work.  This tests the behavior of an end-to-end integrated ssytem as defined by the scope of a development project. It is usually conducted by independent testers.
 
@@ -141,7 +141,7 @@ The test environment should be as close to the production environment as possibl
 
 V-model document: **System Specification** and **System Testing**
 
-### **System Integration Testing**
+## **System Integration Testing**
 
 Most computer systems will link with other systems, either internally to the organization or externally.
 
@@ -153,7 +153,7 @@ When testing links with external systems, testers may control only their own sid
 
 Workflow implementation of business processes may involve a series of systems, where cross platform issues may be significant.
 
-### **Acceptance Testing**
+## **Acceptance Testing**
 
 To determine whether the product indeed satisifies its specification and user story requirements.
 
@@ -165,7 +165,7 @@ Acceptance testing is normally the final stage of testing before deploymebnt.
 
 V-model document: **Business Requirements** and **Acceptance Testing**
 
-### **Functional Testing**
+## **Functional Testing**
 
 Testing what the system does, based on analysis of specified requirements.
 
@@ -175,7 +175,7 @@ It considers the external behavior of the software, hence is black-box testing.
 
 Functional testing is usually associated with data manipulation, such as input, validation, processing, storage, and output.
 
-### **Non-Functional Testing**
+## **Non-Functional Testing**
 
 Testing how well the system meets the required software characteristics such as performance and usability.
 
@@ -194,7 +194,7 @@ Non functional testing includes:
 - Reliability
 - Portability
 
-### **Structural Testing**
+## **Structural Testing**
 
 Testing that takes into account the internal mechanism (structure) of a system or component.  Types include branch testing, path testing, and statement testing.
 
@@ -208,7 +208,7 @@ Coverage measurement applies at all levels, as any aspect of a system which can 
 - Component hierarchy diagram: coverage of component interfaces.
 - Web pages structure: coverage of page navigation
 
-### **Change-related Testing**
+## **Change-related Testing**
 
 Testing a system following modifications or corrections: includes re-testing and regression testing.  This is testing following a change or fix to the software or environment. This should involve two types of test:
 
@@ -218,7 +218,7 @@ Testing a system following modifications or corrections: includes re-testing and
 
 **Automation** testing, this is an advanced level for new testers. Retesting and regression should be repeatable, so they can re-run every time there is a change or fix.  It is essential to automate both re-testing and regression tests. Automation is not a full substitute to manual testing as not 100% automation testing can be achieved and it shouldn't
 
-### **Maintenance Testing**
+## **Maintenance Testing**
 
 Once deployed, as software systems are in service for years or decades, during this time the operational system, its configuration data, and or its environemnt are often corrected, changed, or extended.
 
@@ -231,7 +231,7 @@ The testing of these cahnges is called maintenance testing, and is triggered by:
 - Migration of applications from one platform to another
 - Retirement of legacy software systems
 
-### **Summary**
+## **Summary**
 
 **This is what you have learned so far:**
 
@@ -248,7 +248,7 @@ The testing of these cahnges is called maintenance testing, and is triggered by:
 - Change-related Testing
 - Maintenance Testing
 
-### **Section 2 Quiz**
+## **Section 2 Quiz**
 
 1) Which of the following describes how testing activities can occur in parallel with development activities?
     - V-Model
