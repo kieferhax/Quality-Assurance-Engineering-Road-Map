@@ -12,7 +12,7 @@
 - Specification based technique
 - Experience based technique
 
-### **The Test Development Process**
+## **The Test Development Process**
 
 The test development process is a breakdown of the analysis and design phased discussed in section 1. It can be done in different ways, from very informal with little or no documentation or very formal.
 
@@ -28,7 +28,7 @@ Looking at the formal test development process, there are three main steps:
 
 ![Test Development Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/test-development-process.jpg)
 
-### **IEEE829 Standard for Software Test Documents**
+## **IEEE829 Standard for Software Test Documents**
 
 The standard for software test documentation describes the content of eight documents to be produced during software testing.
 
@@ -61,7 +61,7 @@ This section I'll be describing the three specification documents. The other doc
 
 ![Master Test Plan by Test Phase](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/test-phases.jpg)
 
-### **Test Condition**
+## **Test Condition**
 
 An item or event of a component or system that coule be verified by one or more test cases.
 
@@ -78,7 +78,7 @@ At the **Test Design Specifications** contains - **Test Conditions** and **High-
 - The input of a valid registered customer code
 - The input of an valid format but not registered customer code
 
-### **Test Case**
+## **Test Case**
 
 A set of input values, execution preconditions, expected results, and execution post conditions, such as to exercise a part of the code.
 
@@ -94,7 +94,7 @@ A set of input values, execution preconditions, expected results, and execution 
 
 **Execution post-condition** > state of system after test execution
 
-### **Traceability**
+## **Traceability**
 
 Test conditions and test cases should be linked to the requirements to provide traceability.
 
@@ -103,7 +103,7 @@ Test conditions and test cases should be linked to the requirements to provide t
 - Each requirement is adequately covered by tests
 - Each test has a purpose related to requirements.
 
-### **Test Procedure**
+## **Test Procedure**
 
 A sequence of actions for the execution of a test. It should contains all instructions for running the test cases.
 
@@ -124,13 +124,13 @@ Test cases may be grouped together in a single test procedure but it is often si
 | 3 | Type in customer # 'AB001' | Customer AB0001 details displayed |
 | 4 | Click button 'OK' | New order screen displayed |
 
-### **Reasons To Know Test Coverage**
+## **Reasons To Know Test Coverage**
 
 Provides a quantitative measure of the quality of testing that has been done.
 
 Provides a way of estimating how much more testing is needed.
 
-### **Test Execution Schedule**
+## **Test Execution Schedule**
 
 The execution schedule is not part of the IEEE 829 standard, but is widely used by testers.
 
@@ -144,7 +144,7 @@ The execution schedule is not part of the IEEE 829 standard, but is widely used 
 
 The various test procedures and automated test scripts are subsequently formed into a test execution schedule that defines the order in which they are executed.
 
-### **Three Categories of Test Case Design Techniques**
+## **Three Categories of Test Case Design Techniques**
 
 The purpose of a test design technique is to identify test conditions, test cases and test data.
 
@@ -154,13 +154,13 @@ The purpose of a test design technique is to identify test conditions, test case
 
 **Experience based techniques** - It uses the knowledge, skill, and expertise of testers to derive the test cases
 
-### **Sepcification Based Techniques**
+## **Sepcification Based Techniques**
 
 Black-box testing - test cases derived from a specification or a model of a system or proposed system (documentation).
 
 Testers can show if meets specified requirements but will not discover if the specification is incorrect. It includes both functional and non-functional testing but it does not test internal structure or component.
 
-### **5 Types of Specification Based Techniques**
+## **5 Types of Specification Based Techniques**
 
 All dynamic test levels will include black-box testing - funcional and non-functional testing based on analysis of business requirements, desgins, or specifications.
 
@@ -172,7 +172,7 @@ Five specification-based test design techniques include:
 4) State transition
 5) Use case
 
-### **Equivalence Partioning**
+## **Equivalence Partioning**
 
 Reduces the number of tests needed by considering partitions are the only test cases needed.
 
@@ -182,7 +182,7 @@ Tests can be designed to cover all valid and invalid partitions.
 
 Equivalence partitioning is applicable at all levels of testing and can be used to achieve input and output coverage goals.
 
-### **Equivalence Partitioning Example**
+## **Equivalence Partitioning Example**
 
 **An application is used to assign grades to students taking exams, as follows:**
 
@@ -201,7 +201,7 @@ Equivalence partitioning is applicable at all levels of testing and can be used 
 
 3) Drawing a diagram helps clarifying the specification and identify gaps.  I.E., Upper/Lower boundaries. In this case, the specification did not explicitly state what the output value is for an input less the 40.  The assumption is it is 'Fail'
 
-### **Boundary Value Analysis**
+## **Boundary Value Analysis**
 
 **Boundaries** are the dividing lines between **equivalence partitioning**. At the edge of a **partition** is more likely to occur errors.  **Boundaries** are areas where testing is likely to find defects.
 
@@ -217,9 +217,9 @@ This techniques, also known as Boundary Analysis, is often considered as an exte
 
 In this example, there are 5 boundaries, giving a total of 10 tests to cover the whole specification. The diagram also helps to clarify the minimum increment between values, i.e., are we testing 39 or 39.9, or 39.99?
 
-### **Decision Table Testing**
+## **Decision Table Testing**
 
 Uses a table to list out all possible inputs and actions that can arise to ensure each are tested. Decision tables represent the behaviour of a system that depends on the outcome of multiple decisions.
 
-#### **Decision Table Example**
+## **Decision Table Example**
 ![Decision Table Example](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/decision-table-example.jpg)
