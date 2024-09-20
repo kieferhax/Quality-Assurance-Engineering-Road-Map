@@ -123,7 +123,7 @@ This minimises overall risk and allows the project to adapt to changes quickly.
 
 ## **Agile Time-box Example**
 
-![Agile Time-box example]()
+![Agile Time-box example](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/agile-time-box.jpg)
 
 ## **Unity or Component Testing**
 
