@@ -15,7 +15,7 @@
 - Benefits of reviews
 - Use of static analysis tools
 
-### **Static Testing Techniques**
+## **Static Testing Techniques**
 
 Static testing is the examination of program source code or other project documentation, without the execution of the code, to find defects. The two types of static testing are:
 
@@ -27,7 +27,7 @@ As opposed to dynamic testing which is performed by executing software under tes
 
 Reviews and static analysis have the same objective as dynamic testing in finding defects. Static testing is a complementary technique. It finds causes of failures (defects) directly, while dynamic testing failures which may be caused by defects.
 
-### **Reviews**
+## **Reviews**
 
 Typical written project document or software product that can be reviewed are:
 
@@ -48,7 +48,7 @@ The benefits of reviewing as early as possible are simple.  Easier and cheaper t
 - Reduced time and cost of dynamic testing
 - Improve communication between testers, analysts, developers, and users
 
-### **Types of Defects Found in Reviews**
+## **Types of Defects Found in Reviews**
 
 The aim of reviews is to check and improve the quality of project products.  Such as verification and validation of documents and completeness and conformance to standards.
 
@@ -64,13 +64,13 @@ The aim of reviews is to check and improve the quality of project products.  Suc
 - Layout
 - Structure
 
-### **Basic Review Process**
+## **Basic Review Process**
 
 A good review will also include causal analysis to learn from issues and bring about process improvement. By involvoing a number of reviewers in a controlled manner consensus can be reached on subjects such as best design practice.
 
 Reviewers are better than dynamic testing at finding some types of defects, such as checking standards, identifying inconsistencies in requirements and designs, assessing maintainability and checking interface specifications.
 
-### **Formal Review Process**
+## **Formal Review Process**
 
 The way review works depends on the agreed objectives, the intention is to find defects, gain understanding, educate testers and new team members or discussion and decision by consensus.
 
@@ -88,7 +88,7 @@ Here's a typical formal review process:
 
 - **Follow-up** - Moderator ensures document is now corrected and collect metrics such as times spent reviewing, defect density and breakdowndefects by business area or severity. This info will be used to find recurring issues.
 
-### **Review Roles**
+## **Review Roles**
 
 **Manager** - decides what to review, allocate time and determines wether objectives have been met.
 
@@ -100,7 +100,7 @@ Here's a typical formal review process:
 
 **Scribe** - or **recorder**, documents all the issues, problems, and open points that were identified during the meeting
 
-### **Four Types of Review**
+## **Four Types of Review**
 
 - **Informal** - one to one discussion with no formal process. For example 'buddy reviews', pair programming, design review or code by a technical team leader
 
@@ -110,27 +110,27 @@ Here's a typical formal review process:
 
 - **Inspection** - It's a very thorough, formal process designed to detect defects in documents and program source code, using rules, checklists and entry and exit criteria. Inspection is led by a trained moderator. Also involve causal analysis, looks at common casues of defects and provides feedback to improve future development and inspection processes.
 
-### **Informal Review**
+## **Informal Review**
 
 Main pupose is to find defects and uses no real formal process.
 
-### **Walkthrough**
+## **Walkthrough**
 
 Very useful for highly visual products via storyboarding, workflow tools, etc.
 
 Walkthrough should find defects but not propose solutions - this is the author's task after the meeting.
 
-### **Technical Review**
+## **Technical Review**
 
 Enable decision making, finding defects, solving technical problems, and checking conformance of document
 
-### **Inspection**
+## **Inspection**
 
 Main purpose is to find defects and process improvement.
 
 The inspection process is a very thorough, formal process designed to detect defects in documnet and program source code, using rules, checklists, and entry/exit criteria.
 
-### **Success Factors for Reviews**
+## **Success Factors for Reviews**
 
 For any type fo review to be successful, it must have clear, predefined objectives and must involve the right people for the review objectives.
 
@@ -143,7 +143,7 @@ This includes testers who are valued reviewers and can contribute to the review 
 - Emphasis on learning
 - Management support
 
-### **Static Analysis**
+## **Static Analysis**
 
 Used to find defects in software source code and software models.
 
@@ -151,7 +151,7 @@ The objective of static analysis is to find defects in software source code and 
 
 Static analysis does not test functionality but can locate structural defects that are hard to find in dynamic testing.
 
-### **Benefits of Static Analysis**
+## **Benefits of Static Analysis**
 
 - Early detection of issues prior to text execution.
 - Early warning about suspicious code or design.
@@ -159,13 +159,13 @@ Static analysis does not test functionality but can locate structural defects th
 - Improved mantainability
 - Prevention of defects
 
-### **Use of Static Analysis Tools**
+## **Use of Static Analysis Tools**
 
 Static analysis tools are typically used by developers to check against pre defined rules of programming standards, before, during component (unit) and integration testing.
 
 Many of these tools provide a graphical representation of the code and this can be useful for testers to help pinpoint where are the complex source code, which might indicate possible defect clustering helping you focus on dynamic testing.
 
-### **Summary**
+## **Summary**
 
 **This is what you've learned so far**
 
@@ -184,7 +184,7 @@ Many of these tools provide a graphical representation of the code and this can 
 - Static Analysis and its benefits
 - Use of static analysis tools
 
-### **Section 3 Quiz**
+## **Section 3 Quiz**
 
 1) Typical defects that are easier to find in reviews than in dynamic testing are:
     - Deviations from standards
