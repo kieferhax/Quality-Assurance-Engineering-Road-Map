@@ -193,7 +193,7 @@ It considers the external behavior of the software, hence is black-box testing.
 
 Functional testing is usually associated with data manipulation, such as input, validation, processing, storage, and output.
 
-![Black Box Testing Diagram]()
+![Black Box Testing Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/functional-testing.jpg)
 
 ## **Non-Functional Testing**
 
