@@ -99,6 +99,8 @@ The goes on to describe two different integration test levels, so in this demons
 - System Integration Testing
 - Acceptance Testing
 
+![V-model diagram]()
+
 Although the similarities with the sequential method as in waterfall, the V-model includes a number of different test levels, each corresponding to a development stage. This allows testing activities to be fully integrated with other tasks in the project life cycle.
 
 Mini cycles show the purpose of each test level, and show the importance of catching defects early.
