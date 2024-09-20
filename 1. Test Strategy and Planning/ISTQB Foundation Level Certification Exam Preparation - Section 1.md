@@ -96,9 +96,9 @@ Testing reduces the risk of software failure.
 
 **Failure:** Failures don't only happen due to **defects**, but also environmental conditions, hardware failures, etc.
 
-*All defects start with a human error (for example a typo, midunderstanding, lack planning, capability, etc.).*
+All defects start with a human error (for example a typo, midunderstanding, lack planning, capability, etc.).
 
-*The tester's job is to expose the defect by causing a failure before the software gets to production*
+The tester's job is to expose the defect by causing a failure before the software gets to production
 
 ## **Objectives of Testing Software**
 
@@ -107,9 +107,9 @@ Testing reduces the risk of software failure.
 - Testing is not about removing defects, but about notifying developers about them.
 - Testing is also about reducing risk in releasing
 
-*Testing can give confidence in the quality of the software if it finds few or no defects.*
+Testing can give confidence in the quality of the software if it finds few or no defects.
 
-*Tests can and must be measured. Typical measurements are:*
+Tests can and must be measured. Typical measurements are:
 
 - Number of defects found
 - Number of failures in a given time period (reliability)
@@ -118,8 +118,9 @@ Testing reduces the risk of software failure.
 
 ## **Difference Between Testing and Debugging**
 
-- **Debugging** is a process used to identify casues of bugs in code and **correct them**.
-- **Testing** is the exploration of the system in order to **find defects**
+**Debugging** is a process used to identify casues of bugs in code and **correct them**.
+
+**Testing** is the exploration of the system in order to **find defects**
 
 ![Testing vs Debugging](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/testing-vs-debugging.jpg)
 
@@ -136,8 +137,10 @@ Testing reduces the risk of software failure.
 ## **Five Fundamental Test Activities And Tasks From Planning To Test Closure**
 
 1) Planning and Control:
-**Planning** - Verify the mission of testing
-**Control** - Monitor, check progress, and take action
+
+        **Planning** - Verify the mission of testing.
+
+        **Control** - Monitor, check progress, and take action
 
 2) Analysis and Design
 Test **analysis** and test **design** - testing objectives to create test conditions and test designs
