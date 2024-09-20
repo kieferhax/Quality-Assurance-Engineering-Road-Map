@@ -240,6 +240,8 @@ Testing a system following modifications or corrections: includes re-testing and
 
 **Automation** testing, this is an advanced level for new testers. Retesting and regression should be repeatable, so they can re-run every time there is a change or fix.  It is essential to automate both re-testing and regression tests. Automation is not a full substitute to manual testing as not 100% automation testing can be achieved and it shouldn't
 
+![Retest and Regression Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/retesting-and-regression.jpg)
+
 ## **Maintenance Testing**
 
 Once deployed, as software systems are in service for years or decades, during this time the operational system, its configuration data, and or its environemnt are often corrected, changed, or extended.
