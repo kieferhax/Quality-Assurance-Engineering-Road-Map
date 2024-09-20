@@ -153,6 +153,8 @@ The test environment should be as close to the production environment as possibl
 
 V-model document: **System Specification** and **System Testing**
 
+![System Testing Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/system-testing.jpg)
+
 ## **System Integration Testing**
 
 Most computer systems will link with other systems, either internally to the organization or externally.
