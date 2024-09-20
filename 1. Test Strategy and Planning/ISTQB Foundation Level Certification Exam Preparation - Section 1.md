@@ -138,9 +138,9 @@ Tests can and must be measured. Typical measurements are:
 
 1) Planning and Control:
 
-        **Planning** - Verify the mission of testing.
+    **Planning** - Verify the mission of testing.
 
-        **Control** - Monitor, check progress, and take action
+    **Control** - Monitor, check progress, and take action
 
 2) Analysis and Design
 Test **analysis** and test **design** - testing objectives to create test conditions and test designs
