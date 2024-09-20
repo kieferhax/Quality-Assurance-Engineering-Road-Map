@@ -94,6 +94,8 @@ A set of input values, execution preconditions, expected results, and execution 
 
 **Execution post-condition** > state of system after test execution
 
+![Test Case Example](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/test-case.jpg)
+
 ## **Traceability**
 
 Test conditions and test cases should be linked to the requirements to provide traceability.
