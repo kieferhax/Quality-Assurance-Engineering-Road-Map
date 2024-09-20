@@ -187,6 +187,8 @@ Static analysis tools are typically used by developers to check against pre defi
 
 Many of these tools provide a graphical representation of the code and this can be useful for testers to help pinpoint where are the complex source code, which might indicate possible defect clustering helping you focus on dynamic testing.
 
+![Static Analysis Tool Example]()
+
 ## **Summary**
 
 **This is what you've learned so far**
