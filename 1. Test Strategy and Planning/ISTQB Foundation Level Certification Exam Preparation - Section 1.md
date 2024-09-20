@@ -158,17 +158,15 @@ Tests can and must be measured. Typical measurements are:
 
 ## **Resource Triangle**
 
-Time, Cost, and Quality.
+**Time, Cost, and Quality.**
 
-You can't have them all, you can only pick **two**.
+You can't have them all, you can only pick **two**. You are given the options of ***Fast***, ***Good***, and ***Cheap***, and told to pick any two.
 
-You are given the options of ***Fast***, ***Good***, and ***Cheap***, and told to pick any two.
+- Here *fast* refers to the **time** required to deliver the product.
 
-Here *fast* refers to the **time** required to deliver the product.
+- *Good* is the **quality** of the final product.
 
-*Good* is the **quality** of the final product.
-
-*Cheap* refers to the total **cost** of designing and building the product.
+- *Cheap* refers to the total **cost** of designing and building the product.
 
 This triangle reflects the fact that the three properties of a project are interrelated, and it is not possible to optimize all three - **one will always suffer**.
 
