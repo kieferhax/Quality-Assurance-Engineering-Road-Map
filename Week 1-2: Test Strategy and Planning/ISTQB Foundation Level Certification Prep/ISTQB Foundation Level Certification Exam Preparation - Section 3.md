@@ -27,6 +27,8 @@ As opposed to dynamic testing which is performed by executing software under tes
 
 Reviews and static analysis have the same objective as dynamic testing in finding defects. Static testing is a complementary technique. It finds causes of failures (defects) directly, while dynamic testing failures which may be caused by defects.
 
+![Static Testing Techniques]()
+
 ## **Reviews**
 
 Typical written project document or software product that can be reviewed are:
