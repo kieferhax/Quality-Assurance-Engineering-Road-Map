@@ -59,6 +59,8 @@ This section I'll be describing the three specification documents. The other doc
 
 ## **Test Phases
 
+![Master Test Plan by Test Phase](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/test-phases.jpg)
+
 ### **Test Condition**
 
 An item or event of a component or system that coule be verified by one or more test cases.
