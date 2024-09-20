@@ -131,6 +131,8 @@ Tests individual units or pieces of code for a system. the aim of component test
 
 Component testing is different from all later test stages as it is **not** done by testers but by the developers of the code, the the developer's environment using IDE, debugging tools and test frameworks incorporating stubs and drivers.
 
+![Component Testing Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/component-testing.jpg)
+
 ## **Integration Testing**
 
 Performed to ensure that two modules operate together correctly.  The aim is to test all major interfaces and interactions between the individual components, and to uncover communication failures between components.
