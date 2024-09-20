@@ -16,23 +16,23 @@
 
 **Sequential Life Cycle Models**
 
-- In sequential models the entire system is built in a single sequence of activities that successively define, build, test, and implement the software.
+In sequential models the entire system is built in a single sequence of activities that successively define, build, test, and implement the software.
 
-- Examples are waterfall, Structured System Analysis and Design Model (SSADM), the V-model, and the W-model.
+Examples are waterfall, Structured System Analysis and Design Model (SSADM), the V-model, and the W-model.
 
 **Iterative-Incremental (Agile) Life Cycle Models**
 
-- In iterative-incremental development models, systems are built in a series of short development cycles which deliver working systems in a number of separate increments that can later be integrated together.
+In iterative-incremental development models, systems are built in a series of short development cycles which deliver working systems in a number of separate increments that can later be integrated together.
 
-- Agile development is a term for several methodologies including Scrum, Crystal Clear and many more.
+Agile development is a term for several methodologies including Scrum, Crystal Clear and many more.
 
-- Each has its specific approach but all share the common vision and core values as continuous planning, testing, integration, for the project and software. Is adaptable and focuses on empowering people to collaborate and make decisions together quickly and effectively.
+Each has its specific approach but all share the common vision and core values as continuous planning, testing, integration, for the project and software. Is adaptable and focuses on empowering people to collaborate and make decisions together quickly and effectively.
 
 ## **Life Cycle Model Categories**
 
-- Testing does not exist in isolation.  Test activities are related to software development activities. Different development life cycle models, methodologies, need differetn approaches to testing.
+Testing does not exist in isolation.  Test activities are related to software development activities. Different development life cycle models, methodologies, need differetn approaches to testing.
 
-- There are many system development life cycle models, which fall into two main categories:
+There are many system development life cycle models, which fall into two main categories:
 
 **Sequential**
 
@@ -49,7 +49,7 @@
 
 ## **Waterfall Model**
 
-- Life cycle through which a project goes.  Squential or linear design process. Testing is carried out at the end.
+Life cycle through which a project goes.  Squential or linear design process. Testing is carried out at the end.
 
 1) Initiation
 2) Analysis
@@ -58,20 +58,20 @@
 5) Test
 6) Deploy
 
-- This is the traditional approach to systems development.  Each stage is quite separate, carried out by specialists, and each must complete before the next begins. Each stage outputs a deliverable which is input to the next step.
+This is the traditional approach to systems development.  Each stage is quite separate, carried out by specialists, and each must complete before the next begins. Each stage outputs a deliverable which is input to the next step.
 
-- All testing is done at the end, after the code is developed. Therefore this model does not allow for early testing, as recommended in the principles earlier.
+All testing is done at the end, after the code is developed. Therefore this model does not allow for early testing, as recommended in the principles earlier.
 
 ## **V-model**
 
-- There's many variations of V-model, with slightly different numbers and descriptions of levels.  The ISTQB Foundation exam syllabus refers to a model with 4 test levels:
+There's many variations of V-model, with slightly different numbers and descriptions of levels.  The ISTQB Foundation exam syllabus refers to a model with 4 test levels:
 
 1) Component Testing
 2) Integration Testing
 3) System Testing
 4) Acceptance Testing
 
-- The goes on to describe two different integration test levels, so in this demonstration, I'll describe a V-model with 5 levels of testing instead:
+The goes on to describe two different integration test levels, so in this demonstration, I'll describe a V-model with 5 levels of testing instead:
 
 1) Component Testing
 2) Component Integration Testing
