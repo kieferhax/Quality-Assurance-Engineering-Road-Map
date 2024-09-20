@@ -262,4 +262,4 @@ In this example each combination of conditions has a specified action and every 
 
 The strength of decision table testing is that it creates combinations of conditions that might not other wise have been exercised during testing.
 
-![Decision Table Example 1]()
+![Decision Table Example 2]()
