@@ -124,7 +124,7 @@ Here's a typical formal review process:
 
 Main pupose is to find defects and uses no real formal process.
 
-![Informal Review Diagram]()
+![Informal Review Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/informal-review.jpg)
 
 ## **Walkthrough**
 
