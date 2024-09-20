@@ -167,6 +167,8 @@ When testing links with external systems, testers may control only their own sid
 
 Workflow implementation of business processes may involve a series of systems, where cross platform issues may be significant.
 
+![System Integration Testing Diagram]()
+
 ## **Acceptance Testing**
 
 To determine whether the product indeed satisifies its specification and user story requirements.
