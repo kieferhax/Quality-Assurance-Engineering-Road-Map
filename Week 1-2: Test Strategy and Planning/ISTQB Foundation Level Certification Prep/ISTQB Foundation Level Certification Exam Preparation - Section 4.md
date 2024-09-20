@@ -201,9 +201,7 @@ Equivalence partitioning is applicable at all levels of testing and can be used 
 - To gain distinction a student must score at least 80
 - Any score lessn than 0 or greater than 100 is invalid
 
-| Invalid | Fail | Pass | Merit | Distinction | Invalid |
-| :-----: | :--: | :--: | :---: | :---------: | :-----: |
-|  -1     |  20  |  40  |  60   |     80      |   101   |
+![Equivalence Partitioning Chart 2](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/equivalence-partitioning2.jpg)
 
 1) At a minimum, we should test one fail, one pass, one merit, and one distinction, rathe than every possible score. Drawing a simple line chart can help identify the partitions.
 
