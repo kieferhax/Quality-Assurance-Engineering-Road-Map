@@ -136,23 +136,15 @@ Tests can and must be measured. Typical measurements are:
 
 ## **Five Fundamental Test Activities And Tasks From Planning To Test Closure**
 
-1) Planning and Control:
+1) Planning and Control: **Planning** - Verify the mission of testing. **Control** - Monitor, check progress, and take action.
 
-    **Planning** - Verify the mission of testing.
+2) Analysis and Design: Test **analysis** and test **design** - testing objectives to create test conditions and test designs.
 
-    **Control** - Monitor, check progress, and take action
+3) Implementation and Execution: Activity where **test procedures** or scripts are in order, the **environment** is setup and **tests** are **run**.
 
-2) Analysis and Design
-Test **analysis** and test **design** - testing objectives to create test conditions and test designs
+4) Evaluating Exit Criteria and Reporting: Activity where **test execution** is assessed against the defined **objectives**.
 
-3) Implementation and Execution
-Activity where **test procedures** or scripts are in order, the **environment** is setup and **tests** are **run**
-
-4) Evaluating Exit Criteria and Reporting
-Activity where **test execution** is assessed against the defined **objectives**
-
-5) Test Closure Activities
-Occurs at project **milestones** such as **release**, **completion, cancellation,** or **maintainence** release has been complete.
+5) Test Closure Activities: Occurs at project **milestones** such as **release**, **completion, cancellation,** or **maintainence** release has been complete.
 
 ![Five Fundamental Test Activities](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/test-activities.jpg)
 
