@@ -107,6 +107,8 @@ Mini cycles show the purpose of each test level, and show the importance of catc
 
 The V-model also shows how static testing can be carried out during the development stages, before the code is written. Documents are identified which can be reviewed to trap faults as early as possible.
 
+![Another V-model diagram]()
+
 ## **Iterative-Incremental (Agile) Models**
 
 A software design model where the stages are ongoing opposite to the watefall method. Testing occurs as part of each sprint.
