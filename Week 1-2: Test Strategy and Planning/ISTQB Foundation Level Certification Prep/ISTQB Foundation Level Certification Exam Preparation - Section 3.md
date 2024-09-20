@@ -146,6 +146,8 @@ Main purpose is to find defects and process improvement.
 
 The inspection process is a very thorough, formal process designed to detect defects in documnet and program source code, using rules, checklists, and entry/exit criteria.
 
+![Inspection Diagram]()
+
 ## **Success Factors for Reviews**
 
 For any type fo review to be successful, it must have clear, predefined objectives and must involve the right people for the review objectives.
