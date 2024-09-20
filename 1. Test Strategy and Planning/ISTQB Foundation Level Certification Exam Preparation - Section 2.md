@@ -121,6 +121,10 @@ Typically, development teams work closely together with fewer formal documents a
 
 This minimises overall risk and allows the project to adapt to changes quickly.
 
+## **Agile Time-box Example**
+
+![Agile Time-box example]()
+
 ## **Unity or Component Testing**
 
 Tests individual units or pieces of code for a system. the aim of component testing is to determine whether an individual functino works properly in isolation before integration with the system and combining it with other components.
