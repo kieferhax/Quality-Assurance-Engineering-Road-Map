@@ -161,6 +161,8 @@ This includes testers who are valued reviewers and can contribute to the review 
 - Emphasis on learning
 - Management support
 
+![Success Factors for Reviews]()
+
 ## **Static Analysis**
 
 Used to find defects in software source code and software models.
