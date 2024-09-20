@@ -150,6 +150,8 @@ The execution schedule is not part of the IEEE 829 standard, but is widely used 
 
 The various test procedures and automated test scripts are subsequently formed into a test execution schedule that defines the order in which they are executed.
 
+![Test Execution Schedule](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/test-execution.jpg)
+
 ## **Three Categories of Test Case Design Techniques**
 
 The purpose of a test design technique is to identify test conditions, test cases and test data.
