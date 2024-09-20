@@ -188,7 +188,9 @@ Values that are expected to exhibit similar behavior are divided into groups or 
 
 Tests can be designed to cover all valid and invalid partitions.
 
-Equivalence partitioning is applicable at all levels of testing and can be used to achieve input and output coverage goals.
+Equivalence partitioning is applicable at all levels of testing and can be used to achieve input and output coverage goals. 
+
+![Equivalence Partitioning Chart]()
 
 ## **Equivalence Partitioning Example**
 
