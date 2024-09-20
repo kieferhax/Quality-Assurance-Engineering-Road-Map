@@ -99,7 +99,7 @@ The goes on to describe two different integration test levels, so in this demons
 - System Integration Testing
 - Acceptance Testing
 
-![V-model diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/v-model.jpg)
+![V-model diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/v-model.jpg)
 
 Although the similarities with the sequential method as in waterfall, the V-model includes a number of different test levels, each corresponding to a development stage. This allows testing activities to be fully integrated with other tasks in the project life cycle.
 
@@ -107,7 +107,7 @@ Mini cycles show the purpose of each test level, and show the importance of catc
 
 The V-model also shows how static testing can be carried out during the development stages, before the code is written. Documents are identified which can be reviewed to trap faults as early as possible.
 
-![Another V-model diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/v-model-2.jpg)
+![Another V-model diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/v-model-2.jpg)
 
 ## **Iterative-Incremental (Agile) Models**
 
@@ -123,7 +123,7 @@ This minimises overall risk and allows the project to adapt to changes quickly.
 
 ## **Agile Time-box Example**
 
-![Agile Time-box example](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/agile-time-box.jpg)
+![Agile Time-box example](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/agile-time-box.jpg)
 
 ## **Unity or Component Testing**
 
@@ -131,7 +131,7 @@ Tests individual units or pieces of code for a system. the aim of component test
 
 Component testing is different from all later test stages as it is **not** done by testers but by the developers of the code, the the developer's environment using IDE, debugging tools and test frameworks incorporating stubs and drivers.
 
-![Component Testing Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/component-testing.jpg)
+![Component Testing Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/component-testing.jpg)
 
 ## **Integration Testing**
 
@@ -141,7 +141,7 @@ It should **not** test teh functionality within the component (by this time it h
 
 V-model document: **Design Specification** and **Component Integration** testing.
 
-![Integration Testing](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/integration-testing.jpg)
+![Integration Testing](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/integration-testing.jpg)
 
 ## **System Testing**
 
@@ -153,7 +153,7 @@ The test environment should be as close to the production environment as possibl
 
 V-model document: **System Specification** and **System Testing**
 
-![System Testing Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/system-testing.jpg)
+![System Testing Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/system-testing.jpg)
 
 ## **System Integration Testing**
 
@@ -167,7 +167,7 @@ When testing links with external systems, testers may control only their own sid
 
 Workflow implementation of business processes may involve a series of systems, where cross platform issues may be significant.
 
-![System Integration Testing Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/system-integration.jpg)
+![System Integration Testing Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/system-integration.jpg)
 
 ## **Acceptance Testing**
 
@@ -181,7 +181,7 @@ Acceptance testing is normally the final stage of testing before deploymebnt.
 
 V-model document: **Business Requirements** and **Acceptance Testing**
 
-![Acceptance Testing](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/acceptance-testing.jpg)
+![Acceptance Testing](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/acceptance-testing.jpg)
 
 ## **Functional Testing**
 
@@ -193,7 +193,7 @@ It considers the external behavior of the software, hence is black-box testing.
 
 Functional testing is usually associated with data manipulation, such as input, validation, processing, storage, and output.
 
-![Black Box Testing Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/functional-testing.jpg)
+![Black Box Testing Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/functional-testing.jpg)
 
 ## **Non-Functional Testing**
 
@@ -228,7 +228,7 @@ Coverage measurement applies at all levels, as any aspect of a system which can 
 - Component hierarchy diagram: coverage of component interfaces.
 - Web pages structure: coverage of page navigation
 
-![White Box Testing Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/structural-testing.jpg)
+![White Box Testing Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/structural-testing.jpg)
 
 ## **Change-related Testing**
 
@@ -240,7 +240,7 @@ Testing a system following modifications or corrections: includes re-testing and
 
 **Automation** testing, this is an advanced level for new testers. Retesting and regression should be repeatable, so they can re-run every time there is a change or fix.  It is essential to automate both re-testing and regression tests. Automation is not a full substitute to manual testing as not 100% automation testing can be achieved and it shouldn't
 
-![Retest and Regression Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/retesting-and-regression.jpg)
+![Retest and Regression Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/retesting-and-regression.jpg)
 
 ## **Maintenance Testing**
 
