@@ -138,6 +138,8 @@ Walkthrough should find defects but not propose solutions - this is the author's
 
 Enable decision making, finding defects, solving technical problems, and checking conformance of document
 
+![Technical Review Diagram]()
+
 ## **Inspection**
 
 Main purpose is to find defects and process improvement.
