@@ -76,7 +76,7 @@ A good review will also include causal analysis to learn from issues and bring a
 
 Reviewers are better than dynamic testing at finding some types of defects, such as checking standards, identifying inconsistencies in requirements and designs, assessing maintainability and checking interface specifications.
 
-![Basic Review Processes]()
+![Basic Review Processes](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/basic-review-pocesses.jpg)
 
 ## **Formal Review Process**
 
@@ -96,7 +96,7 @@ Here's a typical formal review process:
 
 - **Follow-up** - Moderator ensures document is now corrected and collect metrics such as times spent reviewing, defect density and breakdowndefects by business area or severity. This info will be used to find recurring issues.
 
-![Formal Review Process]()
+![Formal Review Process](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/formal-review-process.jpg)
 
 ## **Review Roles**
 
