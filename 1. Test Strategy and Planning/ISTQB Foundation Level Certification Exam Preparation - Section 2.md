@@ -99,7 +99,7 @@ The goes on to describe two different integration test levels, so in this demons
 - System Integration Testing
 - Acceptance Testing
 
-![V-model diagram]()
+![V-model diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/v-model.jpg)
 
 Although the similarities with the sequential method as in waterfall, the V-model includes a number of different test levels, each corresponding to a development stage. This allows testing activities to be fully integrated with other tasks in the project life cycle.
 
