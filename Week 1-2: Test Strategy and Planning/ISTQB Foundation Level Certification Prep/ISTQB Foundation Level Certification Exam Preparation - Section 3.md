@@ -161,7 +161,7 @@ This includes testers who are valued reviewers and can contribute to the review 
 - Emphasis on learning
 - Management support
 
-![Success Factors for Reviews]()
+![Success Factors for Reviews](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/success-factors-for-reviews.jpg)
 
 ## **Static Analysis**
 
