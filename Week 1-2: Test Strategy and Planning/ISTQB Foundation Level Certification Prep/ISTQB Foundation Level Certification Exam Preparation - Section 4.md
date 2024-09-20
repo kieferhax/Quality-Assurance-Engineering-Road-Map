@@ -100,7 +100,7 @@ A set of input values, execution preconditions, expected results, and execution 
 
 Test conditions and test cases should be linked to the requirements to provide traceability.
 
-!(Traceability Example)[https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/traceability.jpg]
+![Traceability Example](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/traceability.jpg)
 
 **Traceability is bi-directional, so it ensures that:**
 
