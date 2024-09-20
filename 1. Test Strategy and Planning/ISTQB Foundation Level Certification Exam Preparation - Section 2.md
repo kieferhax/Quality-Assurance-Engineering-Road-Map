@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-**What you will learn in this second section**
+**What you will learn in this second section:**
 
 - Software Testing Methodologies; Waterfall, V-Model,  and Iterative
 - What is unity or component system testing
@@ -16,17 +16,17 @@
 
 **Sequential Life Cycle Models**
 
-In sequential models the entire system is built in a single sequence of activities that successively define, build, test, and implement the software.
+- In sequential models the entire system is built in a single sequence of activities that successively define, build, test, and implement the software.
 
-Examples are waterfall, Structured System Analysis and Design Model (SSADM), the V-model, and the W-model.
+- Examples are waterfall, Structured System Analysis and Design Model (SSADM), the V-model, and the W-model.
 
 **Iterative-Incremental (Agile) Life Cycle Models**
 
-In iterative-incremental development models, systems are built in a series of short development cycles which deliver working systems in a number of separate increments that can later be integrated together.
+- In iterative-incremental development models, systems are built in a series of short development cycles which deliver working systems in a number of separate increments that can later be integrated together.
 
-Agile development is a term for several methodologies including Scrum, Crystal Clear and many more.
+- Agile development is a term for several methodologies including Scrum, Crystal Clear and many more.
 
-Each has its specific approach but all share the common vision and core values as continuous planning, testing, integration, for the project and software. Is adaptable and focuses on empowering people to collaborate and make decisions together quickly and effectively.
+- Each has its specific approach but all share the common vision and core values as continuous planning, testing, integration, for the project and software. Is adaptable and focuses on empowering people to collaborate and make decisions together quickly and effectively.
 
 ## **Life Cycle Model Categories**
 
