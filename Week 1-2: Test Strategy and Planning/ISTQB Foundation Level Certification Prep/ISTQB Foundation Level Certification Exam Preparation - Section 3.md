@@ -146,7 +146,7 @@ Main purpose is to find defects and process improvement.
 
 The inspection process is a very thorough, formal process designed to detect defects in documnet and program source code, using rules, checklists, and entry/exit criteria.
 
-![Inspection Diagram]()
+![Inspection Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/inspection.jpg)
 
 ## **Success Factors for Reviews**
 
