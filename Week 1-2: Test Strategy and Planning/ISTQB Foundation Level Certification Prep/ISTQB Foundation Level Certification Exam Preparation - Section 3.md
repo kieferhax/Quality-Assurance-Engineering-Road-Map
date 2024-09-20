@@ -96,6 +96,8 @@ Here's a typical formal review process:
 
 - **Follow-up** - Moderator ensures document is now corrected and collect metrics such as times spent reviewing, defect density and breakdowndefects by business area or severity. This info will be used to find recurring issues.
 
+![Formal Review Process]()
+
 ## **Review Roles**
 
 **Manager** - decides what to review, allocate time and determines wether objectives have been met.
