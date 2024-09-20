@@ -219,7 +219,7 @@ Boundary value analysis can be applied at all test levels. It is relatively easy
 
 This techniques, also known as Boundary Analysis, is often considered as an extension of equivalence partiotioning or other black-box test design techniques.
 
-![Boundary Value Tests]()
+![Boundary Value Tests](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/boundary-value-tests.jpg)
 
 In this example, there are 5 boundaries, giving a total of 10 tests to cover the whole specification. The diagram also helps to clarify the minimum increment between values, i.e., are we testing 39 or 39.9, or 39.99?
 
