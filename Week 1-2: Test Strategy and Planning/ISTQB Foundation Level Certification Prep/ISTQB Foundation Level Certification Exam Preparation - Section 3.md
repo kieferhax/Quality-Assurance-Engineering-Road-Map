@@ -76,6 +76,8 @@ A good review will also include causal analysis to learn from issues and bring a
 
 Reviewers are better than dynamic testing at finding some types of defects, such as checking standards, identifying inconsistencies in requirements and designs, assessing maintainability and checking interface specifications.
 
+![Basic Review Processes]()
+
 ## **Formal Review Process**
 
 The way review works depends on the agreed objectives, the intention is to find defects, gain understanding, educate testers and new team members or discussion and decision by consensus.
