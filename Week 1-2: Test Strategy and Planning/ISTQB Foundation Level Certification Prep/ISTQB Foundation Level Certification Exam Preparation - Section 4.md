@@ -134,7 +134,7 @@ Provides a quantitative measure of the quality of testing that has been done.
 
 Provides a way of estimating how much more testing is needed.
 
-![Test Completion Chart]()
+![Test Completion Chart](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/test-completion.jpg)
 
 ## **Test Execution Schedule**
 
