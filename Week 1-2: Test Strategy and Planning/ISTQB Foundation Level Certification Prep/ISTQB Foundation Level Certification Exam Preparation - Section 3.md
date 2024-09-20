@@ -41,6 +41,8 @@ Typical written project document or software product that can be reviewed are:
 - User guides, help text
 - Web pages
 
+![Reviews Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/reviews.jpg)
+
 The benefits of reviewing as early as possible are simple.  Easier and cheaper to fix.
 
 - Early defect detection and correction
