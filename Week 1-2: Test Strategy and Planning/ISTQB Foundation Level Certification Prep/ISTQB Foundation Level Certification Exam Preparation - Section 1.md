@@ -122,7 +122,7 @@ Tests can and must be measured. Typical measurements are:
 
 **Testing** is the exploration of the system in order to **find defects**
 
-![Testing vs Debugging](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/testing-vs-debugging.jpg)
+![Testing vs Debugging](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/testing-vs-debugging.jpg)
 
 ## **Fundamental Principles of Testing**
 
@@ -146,7 +146,7 @@ Tests can and must be measured. Typical measurements are:
 
 5) Test Closure Activities: Occurs at project **milestones** such as **release**, **completion, cancellation,** or **maintainence** release has been complete.
 
-![Five Fundamental Test Activities](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/test-activities.jpg)
+![Five Fundamental Test Activities](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/test-activities.jpg)
 
 ## **Restesting and Regression Testing**
 
@@ -154,7 +154,7 @@ Tests can and must be measured. Typical measurements are:
 
 - Regression - running testing to check the cross impact of defect fixes in the whole functionality or system
 
-![Retest and Regression](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/retesting-and-regression.jpg)
+![Retest and Regression](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/retesting-and-regression.jpg)
 
 ## **Resource Triangle**
 
@@ -176,7 +176,7 @@ In other words, you ahve three options:
 2. Design something quickly and cheaply, but it will not be of high quality.
 3. Design something with high quality and cheaply, but it will take a relatively longer time.
 
-![Resource Triangle](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/1.%20Test%20Strategy%20and%20Planning/assets/scope-triangle.png)
+![Resource Triangle](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/scope-triangle.png)
 
 ## **Completion Criteria**
 
