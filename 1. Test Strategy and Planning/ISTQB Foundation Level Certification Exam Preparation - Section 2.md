@@ -30,9 +30,9 @@
 
 ## **Life Cycle Model Categories**
 
-Testing does not exist in isolation. Test activities are related to software development activities. 
+Testing does not exist in isolation. Test activities are related to software development activities. Different development life cycle models, methodologies, need different approaches to testing. 
 
-Different development life cycle models, methodologies, need differetn approaches to testing. There are many system development life cycle models, which fall into two main categories:
+There are many system development life cycle models, which fall into two main categories:
 
 **Sequential**
 
