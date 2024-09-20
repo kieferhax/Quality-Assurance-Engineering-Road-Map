@@ -227,5 +227,9 @@ In this example, there are 5 boundaries, giving a total of 10 tests to cover the
 
 Uses a table to list out all possible inputs and actions that can arise to ensure each are tested. Decision tables represent the behaviour of a system that depends on the outcome of multiple decisions.
 
-## **Decision Table Example**
+- The table specifies the possible combination of conditions and the resulting actions, according to business rules
+- Each colum of the table corresponds to a business rule that defines a unique combination of conditions and which result in the execution of the actions associated with that rule
+- Conditions are usually states in Boolean form (True/False or Yes/No)
+
 ![Decision Table Example](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/decision-table-example.jpg)
+
