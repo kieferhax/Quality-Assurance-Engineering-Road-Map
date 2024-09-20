@@ -52,6 +52,8 @@ The benefits of reviewing as early as possible are simple.  Easier and cheaper t
 - Reduced time and cost of dynamic testing
 - Improve communication between testers, analysts, developers, and users
 
+![Where Defects Are Most Likely to be Introduced]()
+
 ## **Types of Defects Found in Reviews**
 
 The aim of reviews is to check and improve the quality of project products.  Such as verification and validation of documents and completeness and conformance to standards.
