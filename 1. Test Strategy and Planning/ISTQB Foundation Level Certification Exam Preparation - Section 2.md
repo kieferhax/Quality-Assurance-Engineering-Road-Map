@@ -181,6 +181,8 @@ Acceptance testing is normally the final stage of testing before deploymebnt.
 
 V-model document: **Business Requirements** and **Acceptance Testing**
 
+![Acceptance Testing]()
+
 ## **Functional Testing**
 
 Testing what the system does, based on analysis of specified requirements.
