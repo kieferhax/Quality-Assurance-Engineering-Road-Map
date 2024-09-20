@@ -134,6 +134,8 @@ Provides a quantitative measure of the quality of testing that has been done.
 
 Provides a way of estimating how much more testing is needed.
 
+![Test Completion Chart]()
+
 ## **Test Execution Schedule**
 
 The execution schedule is not part of the IEEE 829 standard, but is widely used by testers.
