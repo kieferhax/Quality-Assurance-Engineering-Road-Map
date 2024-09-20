@@ -26,6 +26,8 @@ Looking at the formal test development process, there are three main steps:
 
 3) **Build** the test procedures for executing the test cases and document them in the Test Procedure Specification
 
+![Test Development Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/test-development-process.jpg)
+
 ### **IEEE829 Standard for Software Test Documents**
 
 The standard for software test documentation describes the content of eight documents to be produced during software testing.
