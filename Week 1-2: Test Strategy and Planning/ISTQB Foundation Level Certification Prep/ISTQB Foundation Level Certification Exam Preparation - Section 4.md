@@ -332,3 +332,12 @@ This illustrates that State diagrams do NOT show all system functionality, only 
 Or there may be separate text description accompanying the state diagram, which should be used as a test basis.
 
 ![Same State Transition](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/same-state-transition.jpg)
+
+## **Use Case Testing**
+
+Use case testing is a black-box test design technique in which test cases are designed to execute scenarios of use cases.
+
+**Use Cases:** According to ISTQB, a sequence of transactions in a dialogues between an actor and a component or system with a tabgible result, where an actor can be a user or anything that can exchange information with the system
+
+Use cases are a way of defining high-level requirements or business processes viewed from a user perspective. They may be described at the abstract level (business use case, technology-free, business process level) or at the system level (system use case on the system functionality level).
+
