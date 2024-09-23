@@ -447,3 +447,4 @@ The experience of testers, developers, users and other stakeholders about the so
 
 Testers can use their knowledge about likely defects and their distribution to focus and prioritise tests.
 
+![Experience Based Techniques](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/experience-testing.jpg)
