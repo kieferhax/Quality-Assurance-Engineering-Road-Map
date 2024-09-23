@@ -421,4 +421,5 @@ Software code and flowcharts can both be used to assess coverage:
 
 So full statement coverage can be achieved without exercising all the software structure.  This is why statement coverage is considered the weakest coverage measure, and decision coverage is a stronger measure.
 
-![Statement and Decision Coverage Example 1]()
+![Statement and Decision Coverage Example 1](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/statement-and-decision-coverage1.jpg)
+
