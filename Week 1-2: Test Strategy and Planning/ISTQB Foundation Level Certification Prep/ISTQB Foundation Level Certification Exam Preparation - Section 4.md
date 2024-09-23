@@ -301,4 +301,5 @@ The state transition diagram in the example shows the operation of a digital clo
 - Transitions are shown by arrows indicating the change of state
 - Events which cause transitions are shown by text on the arrows
 
-![State Transition Diagram]()
+![State Transition Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/state-transition-diagram.jpg)
+
