@@ -262,4 +262,4 @@ In this example each combination of conditions has a specified action and every 
 
 The strength of decision table testing is that it creates combinations of conditions that might not other wise have been exercised during testing.
 
-![Decision Table Example 2](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/decision-table-example2.jpg)
+![Decision Table Example 2]()
