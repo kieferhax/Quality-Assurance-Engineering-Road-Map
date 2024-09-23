@@ -386,3 +386,39 @@ There are different coverage measures of software code structure:
 We only need to know techniques for statement and decision coverage at foundation level. But we need to be aware that stronger techniques exist.
 
 ![Structural Testing Coverage](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/structural-test-coverage.jpg)
+
+## **Statement Testing and Coverage**
+
+A statement is an atomic action, a single instruction to the computer, for example:
+
+***Gross_Amount = Net_Amount + Tax***
+
+Test cases are devised to execute specific executable statements at least once. This approach does not ensure complete coverage of functionality, but it does provide a level of confidence that simple coding errors have been detected.
+
+***Statement Coverage = # of statements executed / total # of statements X 100***
+
+## **Decision Testing and Coverage**
+
+A decision has two possible outcomes: True and False, for example:
+
+***If Value between 50 and 60 then Do Action A Else Do Action B End if***
+
+Test cases are devised to execute specific decision outcomes or branches.
+
+***Statement Coverage = # of statements executed / total # of statements X 100***
+
+All decisions are statements, so 100% decision coverage guarantees 100% statement coverage (but not vice versa). Decision testing is a form of control flow testing as it generates a specific flow of control through the decision points.
+
+Note that in the example above, it is not necessary to test equivalence partitions or boundaries for this level of structural testing. Just one value in the range (True) and one outside (False) would be enough to achieve 100% decision coverage, so 100% coverage doesn't necessarily mean exhaustive testing!
+
+## **Statement and Decision Coverage Example**
+
+Software code and flowcharts can both be used to assess coverage:
+
+- **Test 1**: Using a value of 3 for X will cause the condition 'IF x < 5' to evaluate to True, so executing the statement 'y = 0.' This test executes all the statements, so has achieved 100% statement coverage.
+
+- **Test 2**: Using a value of 8 for X will cause the condition to evaluate to False, so the system will jump directly to the 'End IF' statement, skipping the line 'y = 0.' Both tests are required to achieve 100% decision coverage.
+
+So full statement coverage can be achieved without exercising all the software structure.  This is why statement coverage is considered the weakest coverage measure, and decision coverage is a stronger measure.
+
+![Statement and Decision Coverage Example 1]()
