@@ -331,4 +331,4 @@ This illustrates that State diagrams do NOT show all system functionality, only 
 
 Or there may be separate text description accompanying the state diagram, which should be used as a test basis.
 
-![Same State Transition]()
+![Same State Transition](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/same-state-transition.jpg)
