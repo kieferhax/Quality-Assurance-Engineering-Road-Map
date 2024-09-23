@@ -358,3 +358,31 @@ Use cases can also uncover integration defects which individual component testin
 - Exception scenarios
 
 ![Use Case Contents](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/use-cases-contents.jpg)
+
+## **White-box Techniques**
+
+It can be applied at all test levels, wherever the system can be represented in a structural or architectural diagram.
+
+- **Component Testing**: the structure of a software component, i.e. statements, decisions, branches or even distinct paths
+- **Integration Testing**: the structure may be a call tree (a diagram in which modules call other modules)
+- **System Testing**: the structure may be a menu structure, business process or web page structure
+
+Measurement of code structures, is a very comprehensive form of testing but can be complex, time-consuming, and resource-intensive, and may be too detailed for many businesses.
+
+It is most likely to be conducted where extremely thorough testing is required, such as safety-critical systems, defense control systems, medical equipment software is required.
+
+## **Structural Testing Coverage**
+
+The key component in structural testing is coverage. Coverage is expressed as a percentage of a structure covered by tests, and all white-box testing can be used to measure coverage of the structure.
+
+There are different coverage measures of software code structure:
+
+- Statement coverage
+- Decision coverage
+- Condition coverage
+- Multiple condition coverage
+- All Paths coverage
+
+We only need to know techniques for statement and decision coverage at foundation level. But we need to be aware that stronger techniques exist.
+
+![Structural Testing Coverage]()
