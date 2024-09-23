@@ -303,3 +303,11 @@ The state transition diagram in the example shows the operation of a digital clo
 
 ![State Transition Diagram](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/state-transition-diagram.jpg)
 
+Test cases can be derived from the **State Transition Diagram** to exercise each of the possible transitions, by creating a **State Matrix** for every valid transition (or arrow). The start state and event represent test conditions, and the finish state is the exepected result.
+
+![State Transition Table]()
+
+Creating a test case to cover each possible valid **single transition** in the model is known as **0-switch coverage**. It provides the ability to detect the most obvious faults but will not detect more subtle ones which would only be detected by exercising sequences of transitions.
+
+N-switch (or Chow-switch) test is a form of state transition testing in which test cases are designed to executed all valid sequences of N+1 transitions.  Therefore, 0+1 (or single) transitions.
+
