@@ -385,4 +385,4 @@ There are different coverage measures of software code structure:
 
 We only need to know techniques for statement and decision coverage at foundation level. But we need to be aware that stronger techniques exist.
 
-![Structural Testing Coverage]()
+![Structural Testing Coverage](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/structural-test-coverage.jpg)
