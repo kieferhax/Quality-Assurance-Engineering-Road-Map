@@ -283,4 +283,4 @@ In this the example is extended to include a third condition, then the number of
 - the **indifference symbol (-)** means either Y or N
 - the **else symbol (E)** indicates any other combination not explicitly specified in the business rules.
 
-![Desicion Table Example 3]()
+![Desicion Table Example 3](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/decision-table-example3.jpg)
