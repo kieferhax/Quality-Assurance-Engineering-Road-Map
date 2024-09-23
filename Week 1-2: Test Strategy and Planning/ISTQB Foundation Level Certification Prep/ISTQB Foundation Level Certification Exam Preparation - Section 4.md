@@ -311,3 +311,12 @@ Creating a test case to cover each possible valid **single transition** in the m
 
 N-switch (or Chow-switch) test is a form of state transition testing in which test cases are designed to executed all valid sequences of N+1 transitions.  Therefore, 0+1 (or single) transitions.
 
+The State Matrix previously shows only valid transitionss. However, if we want to show both valid and invalid transitions, we will need to create the State Table:
+
+The tabled is filled with the outcome of performing each transition from each state start.
+
+If this result is unknown or not shown on the state diagram, the corresponding cell is left blank or marked 'null' to indicate an invalid transition.
+
+State Tables are therefore a useful testing aid to detive the invalid 'null' transitions directly. The decision whether to test invalid as well as valid transitions will depend on context and risk.
+
+![State Table]()
