@@ -319,4 +319,16 @@ If this result is unknown or not shown on the state diagram, the corresponding c
 
 State Tables are therefore a useful testing aid to detive the invalid 'null' transitions directly. The decision whether to test invalid as well as valid transitions will depend on context and risk.
 
-![State Table]()
+![State Table](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/state-table.jpg)
+
+## **Same State Transition**
+
+Events that cause a system to remain in the same state are shown with recursive arrows. These state transitions must also be included when defining test cases. For example, in the diagram below, if you press the 'skip' button on the MP3 player while it is playing it will start playing the next track.
+
+When testing valid transitions (0-switch transitions) on a state transition diagram, a same-state transition counts as one, just like any other arrows.
+
+This illustrates that State diagrams do NOT show all system functionality, only transitions between states. Sometimes, outcomes are shown on diagrams under the arrows.
+
+Or there may be separate text description accompanying the state diagram, which should be used as a test basis.
+
+![Same State Transition]()
