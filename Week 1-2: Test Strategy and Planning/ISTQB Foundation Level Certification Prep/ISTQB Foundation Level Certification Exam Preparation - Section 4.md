@@ -341,3 +341,4 @@ Use case testing is a black-box test design technique in which test cases are de
 
 Use cases are a way of defining high-level requirements or business processes viewed from a user perspective. They may be described at the abstract level (business use case, technology-free, business process level) or at the system level (system use case on the system functionality level).
 
+![Use Case Testing](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/use-case-testing.jpg)
