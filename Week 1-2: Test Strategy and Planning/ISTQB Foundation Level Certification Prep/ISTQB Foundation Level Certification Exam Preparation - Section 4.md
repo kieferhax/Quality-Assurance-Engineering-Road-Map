@@ -263,3 +263,24 @@ In this example each combination of conditions has a specified action and every 
 The strength of decision table testing is that it creates combinations of conditions that might not other wise have been exercised during testing.
 
 ![Decision Table Example 2](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/decision-table-example2.jpg)
+
+## **Decision Table Example 2**
+
+**Requirement: Delivering goods from warehouse to shop**
+
+For each shop's delivery schedule we look to see how far away the shop if from the warehouse then we go through each item on the schedule.
+
+If the shop is **furhter than 10 miles** away we add the item to the next **weekly delivery** for the area, unless it's a rush order in which case we sent it by **overnight carrier**.
+
+When we have an item to be delivered locally (i.e., less than or equal to 10 miles) we add it to the **next day's delivery**.
+
+However, all items that are over the weight limit will need to go by special delivery.
+
+Use of **indifference** and **'else'** reduces condition entries but increases the risk of missing something.
+
+In this the example is extended to include a third condition, then the number of action columns should expand to eight. However, there are shortcuts which allow columns to be combined if they have the same outcome.
+
+- the **indifference symbol (-)** means either Y or N
+- the **else symbol (E)** indicates any other combination not explicitly specified in the business rules.
+
+![Desicion Table Example 3]()
