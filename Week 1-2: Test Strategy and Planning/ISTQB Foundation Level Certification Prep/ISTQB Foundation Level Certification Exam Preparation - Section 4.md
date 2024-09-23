@@ -284,3 +284,21 @@ In this the example is extended to include a third condition, then the number of
 - the **else symbol (E)** indicates any other combination not explicitly specified in the business rules.
 
 ![Desicion Table Example 3](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/decision-table-example3.jpg)
+
+## **State Transition Testing**
+
+Uses a state diagram to list out all of the possible states and transitions that can occur to ensure each are tested.
+
+It can be represented as:
+
+- The **states** a component or system may be in
+- The **transistion** or changes between states
+- The **events** or circumstances that cause transitions
+
+The state transition diagram in the example shows the operation of a digital clock.
+
+- States are shown by a box or circle withthe name of the state
+- Transitions are shown by arrows indicating the change of state
+- Events which cause transitions are shown by text on the arrows
+
+![State Transition Diagram]()
