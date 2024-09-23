@@ -510,4 +510,4 @@ According to ISTQB, studies have been unable to prove conclusively that one type
 - Knowledge of the testers
 - Time and budget
 
-![Choosing Test Techniques](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/choosing-test-techniques.jpg`)
+![Choosing Test Techniques](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/choosing-test-techniques.jpg)
