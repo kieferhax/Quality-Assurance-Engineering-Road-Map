@@ -484,3 +484,14 @@ Exploratory testing is not purely random or ad-hoc, as it involves a high-level 
 
 Exploratory testing is common within agile methodologies, which often incorporate limited specification documents with short development timescales.
 
+## **Explortory Testing Process Example**
+
+1) Start with a high-level test design. As there is limited or no specification, this may be just to explore basic functions (such as user input) or to follow the 'happy path' processing, where no error conditions are met. This must be documented in a test specification, like black-box testing.
+
+2) Execute the tests and log the outcomes
+
+3) Investigate any unexpected results.  In standard black-box testing, there would be recorded as incidents, and the rest of the scripted tests would be executed as planned. But in exlporatory testing, the plan is suspended and new tests are designed to explore the anomalies and learn about their cause. Deviation from the plan to explore areas of interest is sometimes called the 'tour bus practice'!
+
+4) Document all test designs and results so that tests are repeatable. This also increases the documented knowledge about the system.
+
+![Explopratory Testing Process Example]()
