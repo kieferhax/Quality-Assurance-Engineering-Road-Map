@@ -494,4 +494,4 @@ Exploratory testing is common within agile methodologies, which often incorporat
 
 4) Document all test designs and results so that tests are repeatable. This also increases the documented knowledge about the system.
 
-![Explopratory Testing Process Example]()
+![Explopratory Testing Process Example](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/exploratory-testing-process.jpg)
