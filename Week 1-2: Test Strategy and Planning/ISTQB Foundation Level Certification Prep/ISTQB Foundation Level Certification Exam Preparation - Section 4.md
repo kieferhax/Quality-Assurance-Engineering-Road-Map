@@ -511,3 +511,37 @@ According to ISTQB, studies have been unable to prove conclusively that one type
 - Time and budget
 
 ![Choosing Test Techniques](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/choosing-test-techniques.jpg)
+
+## **Choosing the Best Test Technique**
+
+Some techniques are more applicable to certain situation and test levels; others are applicable to all test levels. In general:
+
+**Specification-based** techniques are used
+
+- In sequential development models
+- At all level testing
+- For business-critical systems
+
+**Structured-based** techniques are used
+
+- Mostly at lower test levels (component testing and component integration testing)
+- For safety-critical systems
+
+**Experience-based** techniques are used
+
+- To augment systematic techniques
+- In iterative/agile development models
+
+When creating test cases, testers generally use a combination of test techniques to ensure adequate coverage of the object under test.
+
+## **Summary**
+
+**This is what you have learned so far...**
+
+- Test conditions, test cases, test procedure specifications, and test coverage
+- Three categories of test case design techniques
+- White box, black box, and experienced based techniques
+- Specification Techniques, such as equivalence partitioning, boundary value analysis, decision table testing, state transition testing, use case testing.
+- Structure-based technique, known as white-box testing statement or decision testing.
+- And finally, using error or exploratory testing applying experience based technique
+
