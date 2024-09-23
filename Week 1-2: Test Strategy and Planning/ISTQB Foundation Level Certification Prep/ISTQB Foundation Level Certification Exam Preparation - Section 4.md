@@ -545,3 +545,112 @@ When creating test cases, testers generally use a combination of test techniques
 - Structure-based technique, known as white-box testing statement or decision testing.
 - And finally, using error or exploratory testing applying experience based technique
 
+## **Section 4 Quiz**
+
+1) In IEEE Std. 829-1998, Test Design Specifications define
+
+        B - Test conditions are the associated high level test cases
+
+2) In IEEE Std. 829-1998, which document specifies the sequence of actions for execution tests?
+
+        B - The test procedure specification
+
+3) A range of data from which a test valuye is selected is termed
+
+        A - An equivalence partition
+
+4) Customer numbers in the Birmingham database can range between 1000 and 6999 inclusive. Which of the following sets of inputs is the minimum to execute each valid and invalid equivalnece partition?
+
+        B - 500, 5000, 8500
+
+5) Customer numbers in the Birmingham database can range between 1000 and 6999 inclusive. Which of the following sets of inputs tests all valid and invalid boundary values?
+
+        C - 999, 1000, 6999, 7000
+
+6) Which of the following is a useful technique when testing combinations of conditions?
+
+        B - Decision table
+
+7) Use cases are beneficial to testers because?
+
+        A - Process flows are based on typical business usage
+
+8) What is a valid boundary value?
+
+        C - A value identified by the boundary value analysis that falls within a valid partition
+
+9) In the State Transition Diagram below, how many 0-switch test cases are required?
+
+        A - 7
+
+10) In the State Diagram in Q9 above, which of the following represents an invalid sequence of transitions?
+
+        C - T-U-V-W-Z-Y
+
+11) Giving the following specification, which of the following values for age in different equivalance partitions?
+
+    If you are aged 21 or under, you are too young to be insured
+    Between 22 and 40 inclusive, you will receive a 20% discount.
+    Anyone over 40 is not eligible for a discount
+
+        C - 21, 40, 60
+
+12) Using the insurance decision table below, what is the expected result of the following test cases?
+
+    A. Smoker who plays dangerous sports
+    B. Non-smoker who plays dangerous sports
+
+        B - A - Cover Refused; B - Referred to underwritter
+
+13) The evaluation of a decision to TRUE or FALSE is a
+
+        A - Decision Outcome
+
+14) Which of the following approaches provides the weakest level of coverage?
+
+        B - Statement Coverage
+
+15) Consider the following psuedo code:
+
+    What is the minimum number of tests which would be required for 100% statement and for 100% decision coverage?
+
+        D - 3 for both statement and decision coverage
+
+16) If a program is tested and 100% decision coverage is achieved, which of the following coverage criteria is then guaranteed to be achieved?
+
+     C - 100% statement coverage
+
+17) The following flow chart has been tested with two test cases.
+
+    TC1: followed the V, X, Z path
+    TC2: followed the V, W, Z path
+
+    What level of coverage has been achieved?
+
+        B - Statement coverage 80%; Decision coverage 75%
+
+18) Which of the following statements is true of experience-based techniques?
+
+        D - Augment other techniques
+
+19) Error guessing is best used
+
+        B - After more formal techniques have been applied    
+
+20) The choice of test techniques to use can depend on
+
+        B - the level of risk
+
+21) The following is a list of test design techniques. Which would be termed 'white box' and which 'black box'?
+
+        D - Decision Testing and Statement Testing are white box; Boundary Value Analysis, Use Case Testing, Decision Table, and State Transition are black box
+
+22) Which of these statements about test techniques is incorrect?
+
+        C - State transistion testing is the same category of techniques as statement testing
+
+23) Consider the following test execution schedule:
+
+    Which of the following sequences would make an appropriate test execution schedule for the above set of test cases?
+
+        C - TC2, TC1, TC3, TC4, TC5, TC6, TC7
