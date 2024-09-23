@@ -305,7 +305,7 @@ The state transition diagram in the example shows the operation of a digital clo
 
 Test cases can be derived from the **State Transition Diagram** to exercise each of the possible transitions, by creating a **State Matrix** for every valid transition (or arrow). The start state and event represent test conditions, and the finish state is the exepected result.
 
-![State Transition Table]()
+![State Transition Table](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/state-transition-table.jpg)
 
 Creating a test case to cover each possible valid **single transition** in the model is known as **0-switch coverage**. It provides the ability to detect the most obvious faults but will not detect more subtle ones which would only be detected by exercising sequences of transitions.
 
