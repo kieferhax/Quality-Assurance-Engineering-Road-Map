@@ -448,3 +448,39 @@ The experience of testers, developers, users and other stakeholders about the so
 Testers can use their knowledge about likely defects and their distribution to focus and prioritise tests.
 
 ![Experience Based Techniques](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/experience-testing.jpg)
+
+## **Error Guessing**
+
+In error guessing, testers use their **knowledge** of systems and testing to anticipate possible defects.  They design tests to target **known** or **suspected** weaknesses, or address aspects of the system that have caused problems in the past. Testers should think laterally and consider **how** users could use the system, not just how they **should** use it (which is the aim in specification-based testing).
+
+Error guessing can often be used after black-box testing to cover specific problm areas more thoroughly. **The success of error guessing depends on the knowledge and skill of the tester**. But the effectiveness can be improved if several testers, users, or developers contribute to identifying possible errors.
+
+In summary - identify potential errors and design test cases based on intuition and experiences.
+
+Test cases can be derived by making a list of possible errors or error-prone situations.
+
+- Empty or null lists
+- Blanks or null strings
+- Negative numbers
+- Historical defects (need defect history)
+
+## **Fault Attacks**
+
+A structured approach to error guessing, called Fault Attack, is to enumberate a list of possible and then design tests to force each one in turn. These defects and failure lists can be based on:
+
+- Experience
+- Available defects and failure data
+- Common knowledge about why software fails
+- List of error messages from program specification
+- Ideas from groups of testers, users, and developers
+
+## **Exploratory Testing**
+
+Exploratory testing combines tester experience with a structured approach. Testers explore the sofrtware and learn about it by testing. The technique involves concurrent test design, test execution, test logging, and learning, based on a test charter containing test objectives, and carried out within time-boxes.
+
+It is an approach that is most useful where there are few or inadequate specifications and severe time pressure, or in order to augment or complement other, more formal testing. It can serve as a check on the test process, to help ensure that the most serious defects are found.
+
+Exploratory testing is not purely random or ad-hoc, as it involves a high-level plan, and all test activities (design, executing, logging, incidents) must be documented. But unlike specification-based testing is focused on the most important areas and identify possible problems.
+
+Exploratory testing is common within agile methodologies, which often incorporate limited specification documents with short development timescales.
+
