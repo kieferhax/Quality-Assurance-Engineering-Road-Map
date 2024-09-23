@@ -423,3 +423,27 @@ So full statement coverage can be achieved without exercising all the software s
 
 ![Statement and Decision Coverage Example 1](https://github.com/kieferhax/Quality-Assurance-Engineering-Road-Map/blob/main/Week%201-2%3A%20Test%20Strategy%20and%20Planning/ISTQB%20Foundation%20Level%20Certification%20Prep/assets/statement-and-decision-coverage1.jpg)
 
+## **Loops**
+
+Loops are an important software construct, but counting paths for white-bopx testing doesn't work quite the same way for loops as for simple IF decisions. For example, this.
+
+If the WHILE decision outcome is True when it is evaluated the first time, then control passes through the True branch and loops back to the decision, where it is re-evaluated. As long as it remains True, the loop will continue.
+
+When the decision outcome becomes False, control passes out of the loop to the statements after it.
+
+This means that both the True and False branhces can be covered by a single test, which can never happen with an IF decision.
+
+Note that this assumes the loop is not infinite, if the decision is True the first time, it will eventually become False.
+
+If the WHILE decision outcome is False when it is evaluated the first time, then the loop is never entered.
+
+The flowchart for loops looks slightly different from IF decisions as the decision diamond has two control lines flowing into it, one from the preceding statement and one from the end of the loop.
+
+## **Experience Based Techniques**
+
+Techniques that you fall back on when there is no adequate specification or no time to run the full set of tests.
+
+The experience of testers, developers, users and other stakeholders about the software, its usage and its environment can be used to help design appropriate tests for known systems.
+
+Testers can use their knowledge about likely defects and their distribution to focus and prioritise tests.
+
