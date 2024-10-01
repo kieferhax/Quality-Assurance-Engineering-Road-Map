@@ -429,3 +429,88 @@ In a risk-based approach, the risks identified may be used to:
 - Improve documentatino
 
 In addition, testing may support the identification of new risks, help to determine what risks should be reduced, and lower uncertainty about risks.
+
+## **Incident Management**
+
+An incident is any unplanned event that requires further investigation. During test execution, discrepencies between actual and expected results are logged as incidents and must be investigated.
+
+Incidents may be raised at any time throughout the software development life cycle, against documentation during static testing as well as code or a system under test.
+
+It is important that businesses should have an Incident Management process to track incidents from discovery and classification to correction and confirmation of solution and finally closure.
+
+Systems Management standards often reserve the term 'incident' only for production faults.
+
+![Incident Management]()
+
+## **Casues of Incidents**
+
+Testers tend to assume that all failures are caused by a defect in the software, but there are many possible causes:
+
+- Software defect
+- Requirement of specification defect
+- Environment problem, i.e., hardware, operating system or network
+- Fault in the test procedure or script, i.e., incorrect, ambiguous or missing step
+- Incorrect test data
+- Incorrect expected results
+- Tester error, i.e., not following the procedure correctly
+
+## **Test Incident Reports**
+
+Incidents must be recorded in incident reports, either manually or using an incident management tool. There are many reasons for reporting incidents including:
+
+- Provide feedback to enable developers and other parties to identify, isolate, and correct defects
+- Enable test leaders to track the quality of the system and the progress of the testing
+- Provide ideas for test process improvement
+- Identify defect clusters
+- Maintain a history of defects and their resolutions
+- Supply metrics for assessing exit criteria
+
+The IEEE standard 829-1998 Test Incident Report contains the following scenarios:
+
+![Test Incident Report]()
+
+Most organizations find the IEEE 829 standard is not detailed enough for their needs, and find it useful to include further details, such as:
+
+- Severity - level of importance to the business or project requirements
+- Priority - Impact of the testing process (and so urgency to fix)
+- Status - progress of incident resolution (i.e., open, awaiting fix, fixed, deffered, awaiting retest, closed)
+- Other areas that may be affected by a change resulting from the incident
+- Actions taken by project team members to isolate, repair, and confirm the incident as fixed
+- System life cycle process in which the incident was observed
+- Change history
+
+There are different views on the use of the priority and severity measures i.e.:
+
+- Severity = impact on functioning of systems
+- Priority = how quickly the business requires a fix
+
+or
+
+- Severity = impact of failure
+- Priority = likelihood of failure
+
+Whatever definintions are used, every test organization should have clear guidelines on their use. Some organization have incident measures independently assessed by a test manager or defect manager.
+
+## **Test Incident Life Cycle**
+
+The incident or bug life cycle is managed using 'status' measure on the incident report. Possible status values are: open, assigned, deferred, duplicate, waiting to be fixed, fixed awaiting re-test, closed, re-opened, etc.
+
+Other status values might indicate that the bug is a pre-existing production defect, that the system works as specified, or that the defect has already been recorded.
+
+If re-testing shows that the defect has not been successfully removed by the developer, the incident report may be re-opened, rather than been closed.
+
+## **Summary**
+
+This is what you have learned so far..
+
+- Risk, level of risk, project risk, product risk, risk-based testing and risk-based approach
+- Tester and test lead tasks
+- The master plan
+- IEEE 829 Replaced by ISO/IEC/IEEE 29119
+- Test planning activities
+- Defining entry and exit criteria
+- Test estimation
+- Test control
+
+## **Quiz**
+
